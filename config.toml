@@ -1,0 +1,82 @@
+baseURL = "https://kaikunze.de/"
+languageCode = "en-us"
+title = "Kai Kunze"
+theme = "beautifulhugo"
+
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "is Augmenting Humans and loves science, hacking, making, playing with technology."
+  subsub = "Professor at Keio University"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon-1.png"# Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+
+[Author]
+  name = "Kai Kunze"
+  website = "kaikunze.de"
+  email = "kai.kunze@pm.me"
+  facebook = "kai.kunze"
+  github = "kkai"
+  twitter = "_kai_ku"
+  #reddit = "username"
+  linkedin = "kaikunze"
+  #snapchat = "username"
+  instagram = "kaikunze"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+
+[[menu.main]]
+    name = "writing"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "projects"
+    url = "projects/"
+    weight = 2
+
+
+[[menu.main]]
+    name = "papers"
+    url = "publications/"
+    weight = 3
+
+[[menu.main]]
+    name = "about"
+    url = "about/"
+    weight = 4
+
