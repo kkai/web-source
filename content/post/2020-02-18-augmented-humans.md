@@ -13,8 +13,7 @@ Due to the circumstances related to COVID-19, we moved
 to a fully virtual event and cancelled the physical event on 13th March.
 The whole team was struggling and especially thanks to all of the chairs it came together quite well.
 
-On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) 
-to pre-record [Stelarc's Keynote](www.youtube.com/watch?v=p44RVyD5Qt8)
+On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record [Stelarc's Keynote](http://www.youtube.com/watch?v=p44RVyD5Qt8)
 
 {{< figure src="/images/stelarc_ear.jpg" title="Stelarc showing the ear on his arm during the AHS keynote." >}}
 

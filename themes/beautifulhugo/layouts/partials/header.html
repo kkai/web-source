@@ -1,0 +1,58 @@
+
+
+{{- partial "load-photoswipe-theme.html" . }}
+
+{{ if .IsHome }}
+  {{ if .Site.Params.homeTitle }}{{ $.Scratch.Set "title" .Site.Params.homeTitle }}{{ else }}{{ $.Scratch.Set "title" .Site.Title }}{{ end }}
+  {{ if .Site.Params.subtitle }}{{ $.Scratch.Set "subtitle" .Site.Params.subtitle }}{{ end }}
+  {{ if .Site.Params.bigimg }}{{ $.Scratch.Set "bigimg" .Site.Params.bigimg }}{{ end }}
+{{ else }}
+  {{ $.Scratch.Set "title" .Title }}
+  {{ if .Params.subtitle }}{{ $.Scratch.Set "subtitle" .Params.subtitle }}{{ end }}
+  {{ if .Params.bigimg }}{{ $.Scratch.Set "bigimg" .Params.bigimg }}{{ end }}
+{{ end }}
+{{ $bigimg := $.Scratch.Get "bigimg" }}
+{{ $title := $.Scratch.Get "title" }}
+{{ $subtitle := $.Scratch.Get "subtitle" }}
+
+{{ if .IsHome }}
+<div id = "boids"> </div>
+<div id="splash" >
+  <iframe id="splash_iframe" src="-splash/boids/boids.html" scrolling="no"></iframe>
+    <div id="splash_title"> <h1> Kai Kunze </h1> </div>
+    <div id="splash_subtitle"> is Augmenting Humans and loves Science, Hacking, Playing with Technology. </div>
+    <div id="splash_role"> Professor at Keio University, Yokohama, Japan.</div>
+</div>
+{{ else }}
+
+ {{ if eq .Type "list" }}
+        
+        <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+        {{ else }}
+        <div id = "pagefloat"> </div>        
+        <div id="nsplash" >
+        <iframe id="nsplash_iframe"> </iframe>
+        <div id="splash_title">
+                   <h1>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
+         </div>
+              {{ end }}
+              {{ if $subtitle }}
+              <div id="splash_subtitle"> {{ $subtitle }} </div>
+              {{ end }}
+        </div>
+
+        <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="{{ .Type }}-heading">
+                           {{ if eq .Type "post" }}
+                {{ partial "post_meta.html" . }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+{{ end }}
+
