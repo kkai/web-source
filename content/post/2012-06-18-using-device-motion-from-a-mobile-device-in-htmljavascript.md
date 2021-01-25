@@ -3,26 +3,23 @@ categories:
 - hacking
 date: 2012-06-18T00:00:00Z
 description: ""
-summary: A while ago, I built a simple demonstration on how to stream accelerometer
-  ...
-tagline: A simple demonstration
 title: Using device motion in html/javascript
+summary: A while ago, I built a simple demonstration on how to stream accelerometer from a mobile devices using html.
+tagline: A simple demonstration
 url: /2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/
 ---
 
-A while ago, I built a simple demonstration on how to stream accelerometer 
-data from a mobile device over websockets to a server just using
-html and javascript. It consists of a nodejs web server and a processing.org
-visualization. As soon as a mobile browser connects to the server a new red
+A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red
 cube is shown on the screen (placed between randomly generated cubes). 
 The transparent area around the cube changes depending on how strong
 one shakes the phone.
 
-<iframe src="http://player.vimeo.com/video/45626605" 
-width="500" height="281" frameborder="0"
->
-</iframe> 
-<p><a href="http://vimeo.com/45626605">Visualization based on mobile phone data</a> from <a href="http://vimeo.com/user8093378">Kai Kunze</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+{{< vimeo id="45626605" title="Using Device Motion" >}}
+
+[Visualization based on mobile phone data](http://vimeo.com/45626605) from [Kai Kunze](http://vimeo.com/user8093378).
+
+
 You can get the code from my [github page](https://github.com/kkai/devicemotion-demo)
 
 It's based on these tutorials and sample code:

@@ -17,6 +17,8 @@ Here are two summary videos of the perfromances:
 
 [Boiling Mind 2019](https://www.youtube.com/watch?v=yhpbghXP60U)
 
+{{< youtube yhpbghXP60U >}}
+
 [Boiling Mind 2020](https://www.youtube.com/watch?v=gOLNIVmxBvU)
 
 (will be replaced with higher quality videos)
