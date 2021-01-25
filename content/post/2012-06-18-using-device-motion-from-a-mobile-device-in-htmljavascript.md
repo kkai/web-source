@@ -1,12 +1,7 @@
 ---
-categories:
-- hacking
 date: 2012-06-18T00:00:00Z
-description: ""
-title: Using device motion in html/javascript
-summary: A while ago, I built a simple demonstration on how to stream accelerometer from a mobile devices using html.
-tagline: A simple demonstration
-url: /2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/
+title: Device Motion in Html/Javascript
+subtitle: A simple demo
 ---
 
 A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red
