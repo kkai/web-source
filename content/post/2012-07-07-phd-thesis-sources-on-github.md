@@ -1,18 +1,12 @@
 ---
-categories:
-- publication
-date: 2012-07-07T00:00:00Z
-description: null
-summary: Finished my phD. last year in Passau. The thesis is already published over
-  Opus Bayern ...
-tagline: phD. thesis sources on github
 title: Compensating for On-body Placement Effects in Activity Recognition
-url: /2012/07/07/phd-thesis-sources-on-github/
+subtitle: phD. thesis latex sources on github
+date: 2012-07-07T00:00:00Z
 ---
 
-Finished my phD. last year in Passau. The
-thesis is already published over [Opus Bayern](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/).
-The pdf is open access, so feel free to read it (careful 19 MB pdf):
+Finally finished my phD. last year at Passau University.
+phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. The thesis is already published at [Opus Bayern](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/).
+The pdf is open access, so feel free to read it (careful it's a 19 MB pdf):
 [Compensating for On-Body Placement Effects in Activity Recognition as pdf](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf)
 
 However, the sources were not available.

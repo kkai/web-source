@@ -1,7 +1,7 @@
 ---
 title: "rc3 Talk Boiling Mind"
 subtitle: "Linking Physiology and Choreography"
-date: 2020-12-27T17:35:58+09:00
+date: 2020-12-27
 image: "images/boiling.jpg"
 ---
 
@@ -20,6 +20,8 @@ Here are two summary videos of the perfromances:
 {{< youtube yhpbghXP60U >}}
 
 [Boiling Mind 2020](https://www.youtube.com/watch?v=gOLNIVmxBvU)
+
+{{< youtube gOLNIVmxBvU >}}
 
 (will be replaced with higher quality videos)
 

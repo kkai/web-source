@@ -16,11 +16,12 @@ The whole team was struggling and especially thanks to all of the chairs it came
 On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) 
 to pre-record [Stelarc's Keynote](https://www.youtube.com/watch?v=p44RVyD5Qt8)
 
+{{< youtube p44RVyD5Qt8 >}}
+
 {{< figure src="/images/stelarc_ear.jpg" title="Stelarc showing the ear on his arm during the AHS keynote." >}}
 
 The keynote was streamed on Monday morning. Stelarc was available
-during the streaming to answer questions in the chat and also took several
-questions after it over Zoom. I was suprised how well it worked.
+during the streaming to answer questions in the chat and also took several questions after it over Zoom. I was suprised how well it worked.
 
 The chat worked as a perfect back channel, a lot of researchers engaged
 posed questions and provided interesting insights.
