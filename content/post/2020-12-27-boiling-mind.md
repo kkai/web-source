@@ -1,8 +1,8 @@
 ---
 title: "rc3 Talk Boiling Mind"
 subtitle: "Linking Physiology and Choreography"
-date: 2020-12-27
 image: "images/boiling.jpg"
+date: 2020-12-27
 ---
 
 {{< figure src="/images/boiling.jpg" title="A picture from the perfromance." >}}

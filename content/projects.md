@@ -1,19 +1,20 @@
 ---
 title: "Projects"
-date: 2020-04-16T22:03:19+09:00
+date: 2020-04-16
 ---
 
-My overall goal: I want to give people a tools 
+My overall goal: I want to give people tools 
 to foster inert talent and empower new skills.
 
 You can find up-to-date works on my [research group site: Geist](http://geist.pro/).
 
 Check also my [publication list](/publications/)
 
-
 {{< figure src="/images/eyewear.jpg" title="Eyewear Computing" >}}
-Smart Eyewear is the major enabling technology for application cases to enhance human senses. 
+Smart Eyewear is the major enabling technology for application cases to enhance human senses.
 
+{{< figure src="/images/boiling.jpg" title="Boiling Mind" >}}
+Exploring Interpersonal Synchrony, for example linking Physiology to Choreography.
 
 {{< figure src="/images/sports.jpg" title="Augmented Humans" >}}
  My goal is to use technical systems to augment existing human abilities and to create new capabilities.
