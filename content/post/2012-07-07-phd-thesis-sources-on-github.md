@@ -5,7 +5,8 @@ date: 2012-07-07T00:00:00Z
 ---
 
 Finally finished my phD. last year at Passau University.
-phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. The thesis is already published at [Opus Bayern](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/).
+phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. 
+The thesis is already published at [Opus Bayern](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/).
 The pdf is open access, so feel free to read it (careful it's a 19 MB pdf):
 [Compensating for On-Body Placement Effects in Activity Recognition as pdf](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf)
 
@@ -19,7 +20,8 @@ attribution would be apprecitated ;)
 
 ***
 Please share if you make improvements, there 
-are a lot of hacks and quick fixes in the sources.
+are a lot of quick hacks in the sources regarding templating. 
+Overall, I'm happy how the final document looks, yet there are small things to be improved.
 
 ***
 I'll try to share most of the algorithms discussed in my dissertation.
@@ -43,5 +45,5 @@ Here's a quick summary about the content together with the slides of my defense:
 >sensing mainstream? This thesis presents a systematic 
 >evaluation of device placement effects in context recognition.
 
-<script class="speakerdeck-embed" data-id="eece7090eb64013086517aec58278375" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"> </script>
+{{< speakerdeck eece7090eb64013086517aec58278375 >}}
 
