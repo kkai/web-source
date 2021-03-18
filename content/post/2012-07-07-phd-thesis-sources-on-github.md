@@ -1,8 +1,10 @@
 ---
 title: Compensating for On-body Placement Effects in Activity Recognition
 subtitle: phD. thesis latex sources on github
-date: 2012-07-07T00:00:00Z
+image: "images/2012-thesis.jpg"
+date: 2012-07-07
 ---
+{{< figure src="/images/2012-thesis.jpg" title="">}}
 
 Finally finished my phD. last year at Passau University.
 phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. 
@@ -16,7 +18,7 @@ of my dissertation](http://github.com/kkai/phdthesis) up to github.
 
 ***
 Please feel free to use it as a thesis template,
-attribution would be apprecitated ;)
+attribution would be appreciated ;)
 
 ***
 Please share if you make improvements, there 
@@ -26,15 +28,14 @@ Overall, I'm happy how the final document looks, yet there are small things to b
 ***
 I'll try to share most of the algorithms discussed in my dissertation.
 
-
 ***
-Here's a quick summary about the content together with the slides of my defense:
+Here's a quick summary about the content together with the slides of my defence:
 
 
 >This thesis investigates, how placement variations of electronic 
 >devices influence the possibility of using sensors integrated in 
 >those devices for context recognition. The vast majority of context 
->recognition research assumes well defined, fixed sen- sor locations. 
+>recognition research assumes well defined, fixed sensor locations. 
 >Although this might be acceptable for some application domains 
 >(e.g. in an industrial setting), users, in general, will have a 
 >hard time coping with these limitations. If one needs to remember 
