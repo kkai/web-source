@@ -1,6 +1,6 @@
 ---
 title: "Augmenting Humans @ Neurolive"
-subtitle: "Paprticipating in the Liveness Symposium "
+subtitle: "Paprticipating in a Liveness Symposium "
 image: "images/liveness.jpg"
 date: 2021-03-24
 ---
@@ -9,7 +9,7 @@ date: 2021-03-24
 
 
 
-Very happy to be part of a three-day online symposium on Liveness organized by the [Neurolive Project](https://neurolive.info/About). The [symposium](https://www.eventbrite.com/e/liveness-symposium-tickets-141701857069) brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.
+Very happy to be presenting of a three-day online symposium on Liveness organized by the [Neurolive Project](https://neurolive.info/About). The [symposium](https://www.eventbrite.com/e/liveness-symposium-tickets-141701857069) brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.
 
 I'm speaking on the 24th, here's the abstract of my talk and my [slides (carefull ~17 Mb pdf)](http://kaikunze.de/files/liveness2021-kai.pdf)
 
