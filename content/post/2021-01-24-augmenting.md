@@ -1,11 +1,11 @@
 ---
 title: "Augmenting Humans @ Neurolive"
 subtitle: "Paprticipating in a Liveness Symposium "
-image: "images/liveness.jpg"
+image: "images/liveness-1.jpg"
 date: 2021-03-24
 ---
 
-{{< figure src="/images/liveness.jpg" title="Augmenting Humans" >}}
+{{< figure src="/images/liveness-1.jpg" title="Augmenting Humans" >}}
 
 
 
