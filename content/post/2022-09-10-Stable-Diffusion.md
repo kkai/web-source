@@ -7,5 +7,5 @@ date: 2022-09-10T19:42:36+01:00
 draft: true
 ---
 
-
 {{< figure src="/images/frisson2.jpg" title="A picture from the performance." >}}
+
