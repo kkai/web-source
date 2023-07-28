@@ -7,16 +7,19 @@ draft: false
 ---
 
 With the advent of Apple Vision Pro, it seems timely to reflect on 
-some of our earlier research directions. Cognitive activity recognition
-and Eyewear Computing could be mainstream in the next years, if Apple 
-succeeds in establishing their platform.
+some of our earlier research directions. 
+Eyewear Computing could go from an academic niche (e.g. [Eyewear Computing Workshops at UbiComp](https://dl.acm.org/doi/abs/10.1145/3460418.3479267)) to becoming mainstream in the next years, if Apple 
+succeeds in establishing their platform. Yet, there are also 
+a tremendous amount of challenges. In the long term smart eyewear needs 
+to become more like regular glasses.
+
 
 Regular, analog glasses are already a great cognitive augment to us. 
 If we put them on, we can see more clearly and, after a while, forget
 that we even wear them. Yet, even after the invention of what is considered the first digital, programmable computer (the ENIAC) 78 years ago, our
 digital tools are still lacking behind. PCs, smart phones and watches
-are distracting us, they are not the "Invisible Computing" promised by
-Mark Weiser in [The Computer of the 21st Century](https://www.cs.cmu.edu/~jasonh/courses/ubicomp-sp2007/papers/02-weiser-computer-21st-century.pdf).
+are distracting us, they are not the "Invisible Computing" that was promised to us.
+
 
 To enable digital augments, tools that seamlessly help us in everyday tasks,
 the most critical limitations are no longer CPU speed, RAM, hard-drive space.
