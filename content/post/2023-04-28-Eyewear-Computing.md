@@ -25,8 +25,7 @@ To enable digital augments, tools that seamlessly help us in everyday tasks,
 the most critical limitations are no longer CPU speed, RAM, hard-drive space.
 The most critical are our cognitive limitations: our attention span, memory, and 
 other cognitive properties. To understand these better, activity recognition
-for our mind is essential, towards [A Cognitive "Quantified Self"](https://www.imlab.jp/publication_data/1362/mco2013100105.pdf) or in other words Cognitive Activity
-Recognition.
+for our mind is essential, towards [A Cognitive "Quantified Self"](https://www.imlab.jp/publication_data/1362/mco2013100105.pdf) or in other words Cognitive Activity Recognition.
 
 As we are in an Artificial Intelligence (AI) revolution right now, it removes one
 of the largest barriers for cognitive activity recognition: the reliable and correct
@@ -38,7 +37,7 @@ image generation (Dallee 2, Midjourney, Stable Diffusion).
 
 Yet, the question remains what would be a decent concept and platform to first gather all this data and second provide meaningful interactions taking cognitive states into
 account. In terms of concept, [Eyewear Computing](https://www.dagstuhl.de/16042) seems to fit perfectly. As most of our senses are on the head, smart glasses could be
-the perfrect cognitive assistants, simultaneously sensing cognitive states and
+the perfect cognitive assistants, simultaneously sensing cognitive states and
 providing cognitive aware interactions.
 
 In terms of platforms, Google Glass was a first very interesting exploration
