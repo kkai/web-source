@@ -22,9 +22,9 @@ Exploring Interpersonal Synchrony, for example linking Physiology to Choreograph
 
 ### Selected Publications
 
-[_MetaArms: Body Remapping Using Feet-Controlled Artificial Arms_](/papers/pdf/saraiji2018metaarms.pdf). Saraiji, MHD Yamen and Sasaki, Tomoya and Kunze, Kai and Minamizawa, Kouta and Inami, Masahiko. The 31st Annual ACM Symposium on User Interface Software and Technology. 2018. [Bibtex](papers/bib/saraiji2018metaarms.bib). 
 
-[_Shape Memory Alloy Wire Actuators for Soft, Wearable Haptic Devices_](/papers/pdf/chernyshov2018shape.pdf). Chernyshov, George and Tag, Benjamin and Caremel, Cedric and Cao, Feier and Liu, Gemma and Kunze, Kai. Proceedings of the 2018 ACM International Symposium on Wearable Computers. 2018. [Bibtex](papers/bib/chernyshov2018shape.bib). 
+
+
 
 [_Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. To be published in ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](papers/bib/masai2017evaluation.bib).
 
