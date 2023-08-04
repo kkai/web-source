@@ -4,12 +4,13 @@ categories:
 date: 2016-12-26T00:00:00Z
 summary: I'm excited and happy to be one of few none-Japanese researchers to receive
   a JST Presto (Sakigake)  project grant, on the Topic Open Collective Eyewear.
+image: images/eyewear-overview.jpg
 title: JST Presto Project on Open Eyewear
+subtitle: Making Regular Glasses Smart
 url: /2016/12/26/jst-presto-project-on-open-eyewear/
 ---
 
-I'm excited and happy to be one of few non-Japanese researchers to receive a [JST Presto (Sakigake)](https://www.jst.go.jp/kisoken/presto/en/index.html)
-project grant, on the Topic Open Collective Eyewear.
+I'm excited and happy to be one of few non-Japanese researchers to receive a [JST Presto (Sakigake)](https://www.jst.go.jp/kisoken/presto/en/index.html) project grant, on the Topic Open Collective Eyewear.
 
 <!--more-->
 Information in Japanese:

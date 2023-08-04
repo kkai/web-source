@@ -1,28 +1,29 @@
 
 ---
 title: "Eyewear Computing"
-subtitle: "Becoming mainstream with the Apple Vision Pro?"
-image: images/eyewear-overview.jpg
+subtitle: "Mainstream with the Apple Vision Pro?"
+image: images/eyewear-header.jpg
 date: 2023-04-28T19:42:36+01:00
 draft: false
 ---
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/images/oma.jpg" alt="This is a long comment about a triangle" >}}
-  {{< figure thumb="-thumb" link="/images/seminar.jpg"  alt="here you see all participants of a Dagstuhl seminar on a stair.">}}
-  {{< figure thumb="-thumb" link="/images/miraikan.jpg" alt="Seminar at Miraikan about Eyewear Computing" >}}
+  {{< figure thumb="-thumb" link="/images/oma.jpg" alt="There are also applications of smart eyewear for older adults." >}}
+  {{< figure thumb="-thumb" link="/images/seminar.jpg"  alt="Participants of the 2016 Dagstuhl Seminar on Eyewear Computing">}}
+  {{< figure thumb="-thumb" link="/images/miraikan.jpg" alt="Public dissemination about Eyewear Computing at The National Museum of Emerging Science and Innovation, Miraikan, Tokyo 2017." >}}
 {{< /gallery >}}
 
 A research concept from 2016 might be in the spotlight in the next years,
 as described and discussed in the [Dagstuhl Seminar 
 "Eyewear Computing – Augmenting the Human with Head-mounted Wearable Assistants"](https://www.dagstuhl.de/16042).
 
+
 With the advent of Apple Vision Pro, it seems timely to reflect on 
 some of our earlier research directions. 
 Eyewear Computing could go from an academic niche (e.g. [Eyewear Computing Workshops at UbiComp](https://dl.acm.org/doi/abs/10.1145/3460418.3479267)) to becoming mainstream in the next years, if Apple 
-succeeds in establishing their platform. Yet, there are also 
-a tremendous amount of challenges. In the long term smart eyewear needs 
-to become more like regular glasses.
+succeeds in establishing their platform. 
+Yet, there are also a tremendous amount of challenges. In the long term smart eyewear needs 
+to become more like regular glasses. 
 
 
 
@@ -31,7 +32,6 @@ If we put them on, we can see more clearly and, after a while, forget
 that we even wear them. Yet, even after the invention of what is considered the first digital, programmable computer (the ENIAC) 78 years ago, our
 digital tools are still lacking behind. PCs, smart phones and watches
 are distracting us, they are not the "Invisible Computing" that was promised to us.
-
 
 To enable digital augments, tools that seamlessly help us in everyday tasks,
 the most critical limitations are no longer CPU speed, RAM, hard-drive space.
