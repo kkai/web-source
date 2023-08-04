@@ -12,7 +12,7 @@ I'm excited and happy to be one of few non-Japanese researchers to receive a [JS
 project grant, on the Topic Open Collective Eyewear.
 
 <!--more-->
-Information unfortunately in Japanese:
+Information in Japanese:
 [JST Annoucement](https://www.jst.go.jp/kisoken/presto/news/2016/161118/161118presto.pdf)
 
 Here's a short summary about the project direction and goals.
