@@ -6,25 +6,15 @@ date: 2020-04-16
 My overall goal: I want to give people tools 
 to foster inert talent and empower new skills.
 
-You can find up-to-date works on my [research group site: Geist](http://geist.pro/).
-
-Check also my [publication list](/publications/)
+You can find up-to-date works on my [publication list](/publications/)
 
 {{< figure src="/images/eyewear.jpg" title="Eyewear Computing" >}}
 Smart Eyewear is the major enabling technology for application cases to enhance human senses.
 
-{{< figure src="/images/boiling.jpg" title="Boiling Mind" >}}
-Exploring Interpersonal Synchrony, for example linking Physiology to Choreography.
-
 {{< figure src="/images/sports.jpg" title="Augmented Humans" >}}
  My goal is to use technical systems to augment existing human abilities and to create new capabilities.
 
-
 ### Selected Publications
-
-
-
-
 
 [_Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift_](/papers/pdf/masai2017evaluation.pdf). Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. To be published in ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. [Bibtex](papers/bib/masai2017evaluation.bib).
 
