@@ -1,10 +1,21 @@
 
 ---
-title: "Apple Vision Pro - Is Eyewear Computing going mainstream?"
-image: "images/eyewear.jpg"
+title: "Eyewear Computing"
+subtitle: "Becoming mainstream with the Apple Vision Pro?"
+image: images/eyewear-overview.jpg
 date: 2023-04-28T19:42:36+01:00
 draft: false
 ---
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/images/oma.jpg" alt="This is a long comment about a triangle" >}}
+  {{< figure thumb="-thumb" link="/images/seminar.jpg"  alt="here you see all participants of a Dagstuhl seminar on a stair.">}}
+  {{< figure thumb="-thumb" link="/images/miraikan.jpg" alt="Seminar at Miraikan about Eyewear Computing" >}}
+{{< /gallery >}}
+
+A research concept from 2016 might be in the spotlight in the next years,
+as described and discussed in the [Dagstuhl Seminar 
+"Eyewear Computing – Augmenting the Human with Head-mounted Wearable Assistants"](https://www.dagstuhl.de/16042).
 
 With the advent of Apple Vision Pro, it seems timely to reflect on 
 some of our earlier research directions. 
@@ -12,6 +23,7 @@ Eyewear Computing could go from an academic niche (e.g. [Eyewear Computing Works
 succeeds in establishing their platform. Yet, there are also 
 a tremendous amount of challenges. In the long term smart eyewear needs 
 to become more like regular glasses.
+
 
 
 Regular, analog glasses are already a great cognitive augment to us. 
