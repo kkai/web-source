@@ -2,7 +2,7 @@
 title: "About Kai"
 date: 2020-04-16T00:12:31+09:00
 ---
-Kai Kunze is a pioneer researcher in the HCI field, augmenting humans with technology. His most significant research contributions are in Eyewear Computing and Placement Robust Activity Recognition. His current research includes also Digitalizing Human Emotions and Amplifying Human Senses. Kai Kunze published over 254 papers at high profile conferences and journals (e.g. CHI, TOCHI, UIST, IEEE Computer)1. His publications are well-cited, with a total citation count of 4868 (H-index of 40), according to Google Scholar. He is actively involved in the research community, most notably as PC Co-Chair for TEI 2017, and Local Co-Chair of CHI 2021.
+Kai Kunze is a pioneer researcher in the HCI field, augmenting humans using technology. His most significant research contributions are in Eyewear Computing and Placement Robust Activity Recognition. His current research includes also Digitalizing Human Emotions and Amplifying Human Senses. Kai Kunze published over 254 papers at high profile conferences and journals (e.g. CHI, TOCHI, UIST, IEEE Computer)1. His publications are well-cited, with a total citation count of 4868 (H-index of 40), according to Google Scholar. He is actively involved in the research community, most notably as PC Co-Chair for TEI 2017, and Local Co-Chair of CHI 2021.
 
 Please feel free to get in touch about research, interests, collaborations and other requests. Here is a recent talk about [Augmenting Humans](https://www.youtube.com/watch?v=d6O2_Y9XLiM&t=243s) summarizing well his research interests. 
 
