@@ -1,0 +1,3 @@
+{{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
+
+{{ end }}

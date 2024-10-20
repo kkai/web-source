@@ -1,7 +1,6 @@
 ---
 title: "Augmenting Humans @ Neurolive"
 subtitle: "Paprticipating in a Liveness Symposium "
-image: "images/liveness-1.jpg"
 date: 2021-03-24
 draft: false
 ---

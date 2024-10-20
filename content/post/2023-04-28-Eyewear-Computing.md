@@ -2,7 +2,6 @@
 ---
 title: "Eyewear Computing"
 subtitle: "Mainstream with the Apple Vision Pro?"
-image: images/eyewear-header.jpg
 date: 2023-04-28T19:42:36+01:00
 draft: false
 ---

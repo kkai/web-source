@@ -1,7 +1,6 @@
 ---
 title: "rc3 Talk Boiling Mind"
 subtitle: "Linking Physiology and Choreography"
-image: "images/boiling.jpg"
 date: 2020-12-27
 draft: false
 ---

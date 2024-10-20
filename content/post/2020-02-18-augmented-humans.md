@@ -2,7 +2,6 @@
 title: "Augmented Humans 2020"
 subtitle: "Taking a conference online"
 date: 2020-09-10T09:50:05+09:00
-image: "images/stelarc.jpg"
 ---
 
 {{< figure src="/images/stelarc.jpg" title="Stelarc presenting his work to the Online attendees." >}}

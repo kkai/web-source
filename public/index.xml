@@ -6,8 +6,15 @@
     <description>Recent content on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2023 19:42:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 14:08:46 +0900</lastBuildDate>
     <atom:link href="https://kaikunze.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HCI Deep Dive</title>
+      <link>https://kaikunze.de/post/2024-10-20-hci-deep-dive/</link>
+      <pubDate>Sun, 20 Oct 2024 14:08:46 +0900</pubDate>
+      <guid>https://kaikunze.de/post/2024-10-20-hci-deep-dive/</guid>
+      <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://kaikunze.de/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://kaikunze.de//images/logo2-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kaikunze.de/images/logo2-thumb.jpg&#34; alt=&#34;/images/logo2-thumb.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://kaikunze.de/images/logo2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://kaikunze.de//images/episode1-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kaikunze.de/images/episode1-thumb.jpg&#34; alt=&#34;/images/episode1-thumb.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://kaikunze.de/images/episode1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://kaikunze.de//images/episode11-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kaikunze.de/images/episode11-thumb.jpg&#34; alt=&#34;/images/episode11-thumb.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://kaikunze.de/images/episode11.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;I’ve been experimenting with the &lt;a href=&#34;https://blog.google/technology/ai/notebooklm-audio-overviews/&#34;&gt;Audio Overview&lt;/a&gt; of Google’s NotebookLM to create a podcast about Human-Computer Interaction (HCI), and I have to say, it’s surprisingly useful! Using their Audio Overview feature, I’ve uploaded several HCI publications, and NotebookLM has turned them into conversations.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, I also summarized most of my &lt;a href=&#34;https://kaikunze.de/publications/&#34;&gt;publications&lt;/a&gt;. Have a listen.&lt;/p&gt;&#xA;&lt;p&gt;Google just announced that they allow to &lt;a href=&#34;https://blog.google/technology/ai/notebooklm-update-october-2024/&#34;&gt;customize the Audio Overviews&lt;/a&gt;. I&amp;rsquo;m pretty excited about this feature, as the standard summarization is a bit too casual for me. Here is an example from the podcast without customization:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Eyewear Computing</title>
       <link>https://kaikunze.de/post/2023-04-28-eyewear-computing/</link>
@@ -48,7 +55,7 @@
       <link>https://kaikunze.de/publications/</link>
       <pubDate>Thu, 16 Apr 2020 12:07:18 +0900</pubDate>
       <guid>https://kaikunze.de/publications/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaikunze.de/papers/pdf/semertzidis2022human.pdf&#34;&gt;&lt;em&gt;Human&amp;ndash;Computer Integration: Towards Integrating the Human Body with the Computational Machine&lt;/em&gt;&lt;/a&gt;. Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. &lt;a href=&#34;https://kaikunze.de/papers/bib/semertzidis2022human.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment&lt;/em&gt;. Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. &lt;a href=&#34;https://kaikunze.de/papers/bib/zhang2022seeing.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaikunze.de/papers/pdf/barbareschi2024speech.pdf&#34;&gt;&lt;em&gt;&amp;quot; Speech is Silver, Silence is Golden&amp;quot; Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides&lt;/em&gt;&lt;/a&gt;. Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. &lt;a href=&#34;https://kaikunze.de/papers/bib/barbareschi2024speech.bib&#34;&gt;Bibtex&lt;/a&gt;.  &lt;a href=&#34;https://kaikunze.de/audio/mp3s/barbareschi2024speech.mp3&#34;&gt;Mp3 summary&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaikunze.de/papers/pdf/hynds2024innermost.pdf&#34;&gt;&lt;em&gt;Innermost echoes: Integrating real-time physiology into live music performances&lt;/em&gt;&lt;/a&gt;. Hynds, Danny and Chernyshov, George and Zheng, Dingding and Uyama, Aoi and Li, Juling and Matsumoto, Kozue and Pogorzhelskiy, Michael and Kunze, Kai and Ward, Jamie A and Minamizawa, Kouta. Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2024. &lt;a href=&#34;https://kaikunze.de/papers/bib/hynds2024innermost.bib&#34;&gt;Bibtex&lt;/a&gt;.  &lt;a href=&#34;https://kaikunze.de/audio/mp3s/hynds2024innermost.mp3&#34;&gt;Mp3 summary&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
@@ -104,21 +111,21 @@
       <link>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
       <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;p class=&#34;lead&#34;&gt; We took a risk in organizing the Eyewear Computing Seminar as we deviated largely from the standard model, yet I believe it payed off.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Looking back on UbiComp/ISWC in Osaka</title>
       <link>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
+      <description>&lt;p class=&#34;lead&#34;&gt; It felt nice to be back in Kansai for the biggest conferences in my field.  &lt;/p&gt;&#xA;&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>After my first SIGGRAPH</title>
       <link>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</link>
       <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;p class=&#34;lead&#34;&gt;I&#39;m impressed mostly by the Hacking/Making Studios and the interactivity/demo exhibits. Siggraph is my new favorite research conference. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Affective Wear- Recognizing facial expressions</title>
