@@ -17,7 +17,6 @@ We present an eyewear type device that can detect facial expression. This eyewea
 
 
 
-
 We have developed the AffectiveWear system to detect facial expressions (neutral, angry (2 level), smile, laugh, sad, surprised). This system includes 8 photo reflective sensors (SG-105), 160 - 270 ohm resistor for the LED and 62k ohm resistor for transistor. These sensors measure the distance between the eyewear and skin surface on face. This distance changes according to the movement of the facial muscles. We show the optimal placement in relation to the expressions of the photo reflective sensors on a glasses frame and the easy integration of the reflectors in the eyewear themselves. Three reflective sensors are used for detecting cheek movement, four for eyebrows/eyelid movement and one for a temple movement. Seven of them are integrated into from frame and one attached to right temple. The placement of the resistors is chosen to pick up facial changes in the action units related to the facial expressions we want to recognize [1]. We choose the following facial expressions: neutral, angry, smile, laugh, sadness and surprise. Photo reflective sensors are used for detecting distance change between the sensor and skin on face. We also implemented HMD type with 7 photo reflective sensors .
 
 **AffectiveWear: Toward Recognizing Facial Expressions** Katsutoshi Masai, Yuta Sugiura, Masa Ogata, Katsuhiro Suzuki, Sho Shimamura, Kai Kunze, Masahiko Inami, Maki Sugimoto. Accepted at Siggraph Emerging Technologies 2015.

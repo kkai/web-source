@@ -11,8 +11,6 @@ It's a strange feeling to have UbiComp and ISWC so close to my home.
 Amazing organization and impressive research and meeting old friends.
 <!--more-->
 
-
-
 Some personal highlights (in random order):
 
 Skin Reading: Encoding Text in a 6-Channel Haptic Display

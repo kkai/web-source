@@ -1,7 +1,7 @@
 ---
 title: "Kai @ Siggraph"
 date: 2017-08-20T16:19:37+09:00
-draft: true
+draft: false
 ---
 
 My second Siggraph was pretty amazing again. Unfortunately, we had another
