@@ -13,8 +13,8 @@ I'm getting more and more fascinated by augmenting Blind Soccer.
 After 3 blind soccer trainings, we had now a couple 
 of meetings to discuss how to extend and enhance the play experience.
 
-![stretch](/imgs/stretch.jpg)
-![kick](/imgs/kick.jpg)
+![stretch](/images/stretch.jpg)
+![kick](/images/kick.jpg)
 
 
 For me there are 3 interesting points about blind 
@@ -28,7 +28,6 @@ If you can play it, it's very fast and empowering. We train with a soccer player
 However, the most interesting point, I think blind soccer can teach us that "disability" is a question of definition and the environment. 
 
 If you can play it, it's very fast and empowering. We train with a soccer player from the Japanese national team.  He plays better than me without being blind folded (ok ... that's maybe not really an achievement, I'm terrible at soccer). 
-
 
 The biggest take-away for me, I rely too much on vision to make sense of my environment. The training made me more aware of sounds. I find myself to listen more and more. Sometimes in a train on the street etc., I now close my eyes and explore the environment just by sound. It's fascinating how much we can hear. This opened a new world for me. Looking into it more, I believe sound is an underestimated modality for augmented and virtual realities, which is worth exploring more.
 I stumbled over a couple of papers about sonic interface design. Looking forward to applying some of the findings we get out of the blind soccer use case to our lives ;)

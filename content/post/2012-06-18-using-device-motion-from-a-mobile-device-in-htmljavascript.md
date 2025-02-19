@@ -5,26 +5,28 @@ tags: ["hacking", "demo"]
 date: 2012-06-18
 ---
 
-A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red
-cube is shown on the screen (placed between randomly generated cubes). 
-The transparent area around the cube changes depending on how strong
-one shakes the phone.
+This project demonstrates real-time accelerometer data streaming from mobile devices using WebSocket technology. The system combines a Node.js web server with a Processing.org visualization interface. When a mobile device connects to the server through its browser, the visualization displays a distinctive red cube among randomly positioned background cubes. The cube features a dynamic transparent aura that responds to the intensity of the device's movement - the more vigorously you shake your phone, the more pronounced the visual effect becomes.
+
+The implementation relies purely on HTML and JavaScript, making it both lightweight and accessible. This creates an intuitive bridge between physical movement and digital visualization, effectively demonstrating the potential of mobile sensors in interactive web applications.
 
 
 {{< vimeo id="45626605" title="Using Device Motion" >}}
 
 [Visualization based on mobile phone data](http://vimeo.com/45626605) from [Kai Kunze](http://vimeo.com/user8093378).
 
+The complete source code is available on my GitHub repository: [devicemotion-demo](https://github.com/kkai/devicemotion-demo)
+This project builds upon several excellent resources:
 
-You can get the code from my [github page](https://github.com/kkai/devicemotion-demo)
+- A Node.js WebSocket tutorial demonstrating chat server implementation by Martin Sikora: [a simple chat server node.js tutorial](http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial)
+- Paul Hayes' guide on creating animated 3D cubes using CSS3 transforms: [3d css cube](http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/)
+- The "3D Cube World" Processing sketch that inspired the visualization: [3d cube world](http://openprocessing.org/sketch/19216)
 
-It's based on these tutorials and sample code:
+These resources provided the foundational techniques that were combined and adapted to create this interactive demonstration.
 
-[a simple chat server node.js tutorial](http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial)
 
-[3d css cube](http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/)
 
-[3d cube world](http://openprocessing.org/sketch/19216)
+
+
 
 
 
