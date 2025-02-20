@@ -7,7 +7,7 @@ title: Some of my favorites from the 29c3 recordings
 url: /2013/02/06/some-of-my-favorites-from-the-29c3-recordings/
 ---
 
-Over the last weeks, I finally got around to watch some of the [29c3](https://events.ccc.de/congress/2012/wiki/Main_Page) recordings. Here are some of my favourites. I will update the list accordingly.
+Over the last weeks, I finally got around to watch some of the [29c3](https://events.ccc.de/congress/2012/wiki/Main_Page) recordings. Here are some of my favorites. I will update the list accordingly.
 
 I link to the official recording available from the CCC domain. The talks however are also on youtube. Just search for the talk title.
 

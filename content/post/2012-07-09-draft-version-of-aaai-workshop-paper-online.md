@@ -9,7 +9,7 @@ title: Towards Dynamically Configurable Context Recognition Systems
 url: /2012/07/09/draft-version-of-aaai-workshop-paper-online/
 ---
 
-Here's a [draft version of my publication](http://kaikunze.de/papers/2012Kunze.pdf) for the [Activity Context Workshop](http://activitycontext.org/)
+Here's a [draft version of my publication](http://kaikunze.de/papers/kunze2012towards.pdf) for the [Activity Context Workshop](http://activitycontext.org/)
 in Toronto. Bellow the abstract.
 
 Here's the link to the [source code for snsrlog for iPhone](https://github.com/kkai/snsrlog) (which I mentioned during my talk).

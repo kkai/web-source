@@ -15,7 +15,7 @@ url: /2012/10/31/acm-multimedia-2012-day-2-notes/
 
 This is a scratchpad ... will fill the rest when I have time.
 
-## Papers
+### Papers
 I really enjoyed the work from Heng Liu, Tao Mei et. al.
 "Finding Perfect Rendezvous On the Go: Accurate Mobile Visual Localization and Its Applications to Routing".
 They combine existing research in a very interesting mixture. They use a visual localization method 
@@ -42,7 +42,7 @@ Another very art focused paper I enjoyed was "Dinner of Luciérnaga-An interact
 by Yu-Chuan Tseng. Theater visitors can interact with the play using their smart phone (getting also feedback on the device ....). 
 
 
-## Posters, Demos, Competitions
+### Posters, Demos, Competitions
 
 
 The winner of the Multimedia Grand Challenge was very well deserved. "Analysis of Dance Movements using Gaussian Processes" by Antoine Liutkus et. al. decomposed dance moves using Gaussian processes in movements with
@@ -50,7 +50,7 @@ slow periodicity, high periodicity and moves that happened just once. Fascinatin
 
 A very neat demo was presented by Wei Zhang et. al.: "FashionAsk: Pushing Community Answers to Your Fingertips".
 
-## Other Notes
+### Other Notes
 As expected from any conference in Japan :), the organisation was flawless. 
 In case any if the organisers is reading this. Thanks again. Nara is a perfect place for a venue like this
 (deer, world heritage sites, good food ...).

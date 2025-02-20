@@ -16,7 +16,7 @@ I started playing with the camera api for the iPhone.
 Again, I'm very surprised by the accessibility and quality of Apples
 apis and their sample code.
 
-![Laughing Face](/imgs/laughing.png)
+![Laughing Face](/images/laughing.png)
 
 As a start, this little app is a "privacy enhanced" camera 
 app for entertainment purposes. 

@@ -18,11 +18,11 @@ and "Continuous Analysis of Emotions for Multimedia Applications" on the first d
 
 The last day I went to "Workshop on Audio and Multimedia Methods for Large Scale Video Analysis" and 
 to the "Workshop on Interactive Multimedia on Mobile and Portable Devices".
-
-
-This is meant as a scratchpad ... I'll add more later if I have time.
+ 
+ This is meant as a scratchpad ... I'll add more later if I have time.
 
 ### Interacting with Image Collections – Visualisation and Browsing of Image Repositories
+
 Schaefer gave a overview about how to browse large scale image repositories. 
 Interesting, yet of not really related to my research interests. 
 He showed 3 approaches for retrieval: mapping-based, clustering-based and graph-based.
@@ -64,6 +64,4 @@ Also, depending on personal experience and cultural background, the emotional re
 
 [London eye mood](http://cinimodstudio.com/project/london-eye-mood-conductor/)
 
-### Workshop on Audio and Multimedia Methods for Large Scale Video Analysis
 
-### Workshop on Interactive Multimedia on Mobile and Portable Devices

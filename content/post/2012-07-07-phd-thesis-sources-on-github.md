@@ -1,14 +1,16 @@
 ---
 title: Compensating for On-body Placement Effects in Activity Recognition
 subtitle: phD. thesis latex sources on github
-image: "images/2012-thesis.jpg"
+image: "/images/2012-thesis.jpg"
 date: 2012-07-07
 ---
-{{< figure src="/images/2012-thesis.jpg" title="">}}
 
-Finally finished my phD. last year at Passau University.
-phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. 
-The thesis is already published at [Opus Bayern](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/).
+I'm pleased to announce the completion of my Ph.D. from the University of Passau under the guidance of my advisors:
+
+Principal Advisor: Prof. Dr. Paul Lukowicz
+Secondary Advisor: Prof. Dr. Hans Gellersen
+
+My doctoral thesis has been published and is available at[Opus Bayern](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/).
 The pdf is open access, so feel free to read it (careful it's a 19 MB pdf):
 [Compensating for On-Body Placement Effects in Activity Recognition as pdf](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf)
 
@@ -30,7 +32,6 @@ I'll try to share most of the algorithms discussed in my dissertation.
 
 ***
 Here's a quick summary about the content together with the slides of my defence:
-
 
 >This thesis investigates, how placement variations of electronic 
 >devices influence the possibility of using sensors integrated in 
