@@ -2,7 +2,9 @@
 date: 2013-02-06T00:00:00Z
 description: ""
 summary: Over the last weeks, I finally got around to watch some of the ...
-tags: []
+tags:
+- hacking
+- conference
 title: Some of my favorites from the 29c3 recordings
 url: /2013/02/06/some-of-my-favorites-from-the-29c3-recordings/
 ---
