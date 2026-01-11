@@ -101,6 +101,6 @@ think it's a start ;)
 
 ![Glass Enhanced](/imgs/glass_p2.jpg)
 
-Here is the very [basic stencil](/imgs/glass.stencil.pdf) I used to build the attachment.
+Here is the very [basic stencil](/files/glass.stencil.pdf) I used to build the attachment.
 
 

@@ -7,7 +7,6 @@ draft: false
 
 {{< figure src="/images/placebo.jpg" title="Visualizing Physiological Data of A Concert in VR." >}}
 
-
 Virtual reality promises to transport us to events we could never attend in person. Concert recreations in VR have become increasingly sophisticated, aiming to capture not just the sights and sounds of a performance, but the atmosphere created by a live audience. But what happens when we try to recreate that collective energy using physiological data from the original audience? And does it matter if that data is real or fake?
 
 We recently conducted a study lead by Xiaru Ming that brings these questions into focus. The research examines how visualizing audience physiological data in VR concert recreations affects user experience. The findings reveal a placebo effect that challenges assumptions about the role of authentic data in creating meaningful experiences.

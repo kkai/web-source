@@ -35,8 +35,8 @@ So far most of the applications and reading devices
 directly mimic the book. We have "ebooks", "e-reading" software
 use pages and page turns etc. I believe there is a lot of room for improvement related to reading on screens.
 
-Given the possibility to assess the user's mental state using 
-[Cognitive Activity Recognition](/papers/kunze2013activity.pdf), we 
+Given the possibility to assess the user's mental state using
+[Cognitive Activity Recognition](/papers/pdf/kunze2013activity.pdf), we
 can change content, structure and style of reading materials dynamically.
 Most straight forward, if an application detects that a reader looses
 interest, it could prompt her with an interactive challenge/video or 

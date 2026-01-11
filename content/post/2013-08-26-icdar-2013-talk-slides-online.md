@@ -23,8 +23,8 @@ The slides for my two talks today are online now.
 
 
 For more details, check out the papers:
-* [The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking](/papers/kunze2013wordometer.pdf)
-* [Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents](/papers/kunze2013reading.pdf)
+* [The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking](/papers/pdf/kunze2013wordometer.pdf)
+* [Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents](/papers/pdf/kunze2013reading.pdf)
 
 They are both published at [ICDAR 2013](http://icdar2013.org). 
 

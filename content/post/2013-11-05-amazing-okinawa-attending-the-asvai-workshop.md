@@ -42,7 +42,7 @@ Really interesting work, I had a chance to talk a bit
 more with [Yusuke Sugano](http://www.hci.iis.u-tokyo.ac.jp/~sugano/), cool research :)
 
 Of course, Koichi also gave an overview about our work.
-If you want to read more, checkout the [IEEE Computer article](/papers/kunze2013activity.pdf).
+If you want to read more, checkout the [IEEE Computer article](/papers/pdf/kunze2013activity.pdf).
 
 I'm looking forward to the main conference.
 Here's a tag cloud using the abstracts of ACPR and ASVAI papers:
