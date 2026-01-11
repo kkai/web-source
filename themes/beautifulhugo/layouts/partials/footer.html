@@ -9,8 +9,8 @@
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
             {{- if isset $.Site.Params.Author .id }}
               <li>
-                <a href="{{ printf .url (index $.Site.Params.Author .id) }}" title="{{ .title }}">
-                  <span class="fa-stack fa-lg">
+                <a href="{{ printf .url (index $.Site.Params.Author .id) }}" title="{{ .title }}" aria-label="{{ .title }}">
+                  <span class="fa-stack fa-lg" aria-hidden="true">
                     <i class="fas fa-circle fa-stack-2x"></i>
                     <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
                   </span>
@@ -20,8 +20,8 @@
           {{ end }}
           {{ if .Site.Params.rss }}
           <li>
-            <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="RSS">
-              <span class="fa-stack fa-lg">
+            <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="RSS" aria-label="RSS Feed">
+              <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
               </span>
