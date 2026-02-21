@@ -19,5 +19,4 @@ He received his phD from the Passau University. His work experience includes
 research visits/internships at the Palo Alto Research Center (PARC),
 MIT Media Lab, Sunlabs Europe and the German Stock Exchange.
 
-
 In his spare-time, he likes to go to the [Chaos Communication Congress](https://media.ccc.de/v/33c3-8225-beyond_virtual_and_augmented_reality) and other maker/hacker venues and he also writes [smartphone applications](https://kaikunze.de/apps/).
