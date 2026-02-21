@@ -46,7 +46,7 @@ A collection of iOS apps I've developed over the years.
 <div style="overflow: hidden;">
 <h3 style="margin-top: 0;">Blanks</h3>
 <p>Simple iPhone app to learn new English words. Shows word definitions and gives you 4 choices to pick the right answer.</p>
-<p><a href="/blanks/">Landing Page</a> · <em>No longer available on the App Store.</em></p>
+<p><a href="/blanks/">Landing Page</a> · <a href="https://apps.apple.com/us/app/blanks/id286883373">View on the App Store</a></p>
 </div>
 </div>
 
