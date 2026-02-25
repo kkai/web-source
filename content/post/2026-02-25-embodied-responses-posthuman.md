@@ -5,7 +5,7 @@ date: 2026-02-25
 draft: false
 ---
 
-{{< figure src="/images/sonic-posthuman.jpg" title="Audience members wearing physiological sensors during the posthuman performance." >}}
+{{< figure src="/images/sonic-posthuman.jpg" title="Audience members wearing physiological sensors during the posthuman performance. © 2024 Hiroyasu Daido, used with permission." >}}
 
 What happens when the line between a human performer and a machine blurs on stage? We are presenting this work at the Augmented Humans conference 2026 in Okinawa, and it is one of those projects that keeps surprising us.
 
