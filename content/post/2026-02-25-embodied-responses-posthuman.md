@@ -21,7 +21,7 @@ Here is a video of the performance:
 
 {{< youtube JyNQULv9RVY >}}
 
-## Citation
+### Citation
 
 Kai Kunze, Mingyang Xu, Danyang Peng, Lucas Ogasawara de Oliveira, Rose Shao, Xiaru Meng, Matthias Hoppe, and Giulia Barbareschi. 2026. Embodied Responses to Posthuman Performance: A Mixed-Methods Study of Physiological and Emotional Audience Reactions. In The Augmented Humans International Conference 2026 (AHs 2026), March 16–19, 2026, Okinawa, Japan. ACM, 1–12. https://doi.org/10.1145/3795011.3795056
 
