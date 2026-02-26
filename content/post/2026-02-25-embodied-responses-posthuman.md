@@ -9,7 +9,7 @@ draft: false
 
 What happens when the line between a human performer and a machine blurs on stage? We are presenting this work at the Augmented Humans conference 2026 in Okinawa, and it is one of those projects that keeps surprising us.
 
-The setup: an artist wears sensors and a robotic arm, turning their own body into a live audio-visual mixer. Their movements, their physiological signals, all of it feeds into the sound and visuals in real time. The performer becomes something in between -- not quite human soloist, not quite machine, but a hybrid that makes you question who or what is actually creating the art.
+The setup: an artist wears sensors and controls a robotic arm, turning their own body into a live audio-visual mixer. Their movements, their physiological signals, all of it feeds into the sound and visuals in real time. The performer becomes something in between -- not quite human soloist, not quite machine, but a hybrid that makes you question who or what is actually creating the art.
 
 We want to know what this does to the people watching. So we put PPG, EDA, and motion sensors on 23 audience members, hand out questionnaires, and sit down with them for interviews afterwards. The idea is to capture the full picture -- what their bodies do during the show, and what they think and feel about it after.
 
