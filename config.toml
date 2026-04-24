@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "is Augmenting Humans."
-  subsub = "Professor at Keio University"
+  subsub = "Professor at TU Clausthal"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon-1.png"# Expecting square dimensions
   favicon = "img/favicon.ico"
