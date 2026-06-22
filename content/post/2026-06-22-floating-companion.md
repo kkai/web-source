@@ -34,6 +34,10 @@ The interviews also gave us a set of application scenarios: emotional support an
 
 We did not want this to stay abstract, so we tied it back to physics. Helium-filled bodies have hard constraints, and we mapped those out in a Physics-Design Dependency Framework, then pulled three practical design principles from it: lean into soft physical contact, use the full 3D volume around a person, and design for animacy so the robot feels alive rather than mechanical. To show the design space actually produces things, we built proof-of-concept prototypes on a flapping-wing platform that put those principles into practice.
 
+Here is a short video that walks through the idea and the prototypes:
+
+{{< youtube 6qrZC1kF7Kc >}}
+
 If you want the full argument, the figures, and the prototype details, the paper is the place to go.
 
 ## Reference
