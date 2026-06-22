@@ -7,7 +7,7 @@ draft: false
 
 {{< figure src="/images/floating-companion-teaser.png" title="Five soft floating robots in everyday indoor settings: a fish that circles you with a calming touch, a balloon that follows you across floors, a jellyfish that pulses to guide your breathing, an agile robot for playing with a pet while you are away, and a cloud that drifts over to remind you to take a break." >}}
 
-Our paper *Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments* won the **Best Paper Award** at [DIS 2026](https://dis.acm.org/2026/) in Singapore. I am really happy for the team. We worked on this one for a long time, and it is nice to see it recognized.
+Our paper *Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments* won the **Best Paper Award** at [DIS 2026](https://dis.acm.org/2026/) in Singapore. I am really happy for the team. Mingyang and Yanheng worked on it a long time, and it is nice to see it recognized.
 
 ## Abstract
 
