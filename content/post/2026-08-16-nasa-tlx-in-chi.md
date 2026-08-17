@@ -7,6 +7,8 @@ draft: false
 
 {{< figure src="/images/nasa-tlx-chi-growth.png" title="NASA-TLX use at CHI from 2006 to 2024. Blue is the share of all CHI papers  including NASA-TLX, rising from about 3% to nearly 10%; red is the raw paper count, rising from 5 papers to 99." >}}
 
+The NASA Task Load Index, or NASA-TLX, is a short questionnaire that asks people to rate how mentally and physically demanding a task felt. It is one of the most popular tools in human-computer interaction research (and often used at CHI, one of the premier interantional HCI conferences).
+
 The NASA Task Load Index appeared in roughly one in ten CHI papers last year. It has become close to a default instrument, which is exactly why we should ask whether we are all using it the same way. We read 522 CHI papers from 2006 to 2024 to find out. The short answer: the instrument itself is fine; the problems lie in how we implement it. Our paper is now accepted at ACM TOCHI, and with the next CHI deadline approaching, this is a good moment to check your own setup.
 
 ## What to do differently
