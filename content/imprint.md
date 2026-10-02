@@ -61,6 +61,8 @@ Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 +--------------------------------------------------------+
 ```
 
+Wenn Sie die Box nicht lesen können, schreiben Sie mir bitte eine E-Mail an [kai.kunze@pm.me](mailto:kai.kunze@pm.me); ich sende Ihnen die Anschrift als Text. / If you cannot read the box, please e-mail me at [kai.kunze@pm.me](mailto:kai.kunze@pm.me) and I will send the address as text.
+
 **Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV:** Kai Kunze, Anschrift wie oben.
 
 ### Haftung für Inhalte
