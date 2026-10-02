@@ -43,3 +43,16 @@ a:hover,
 a:focus {
   color: #004080;
 }
+
+/* Imprint / privacy links below the footer (layouts/partials/footer_custom.html) */
+.legal-links {
+  font-size: 14px;
+  margin: 0;
+  padding: 0 0 20px;
+}
+
+/* Keep the ASCII-art imprint box on one line per row; scroll sideways on small screens */
+pre code.language-text {
+  white-space: pre;
+  line-height: 1.2;
+}
