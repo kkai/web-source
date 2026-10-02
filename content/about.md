@@ -13,8 +13,9 @@ email (personal): kai.kunze (at) gmail.com
 # About
 
 With over fifteen years of experience in the Wearable Computing research field, Kai works as
-Professor at the Graduate School of Media Design, Keio University, Yokohama, Japan.
-Beforehand, he held an Assistant Professorship at Osaka Prefecture University.
+Professor at TU Clausthal, Clausthal-Zellerfeld, Germany.
+Beforehand, he was Professor at the Graduate School of Media Design, Keio University, Yokohama, Japan,
+and held an Assistant Professorship at Osaka Prefecture University.
 He received his phD from the Passau University. His work experience includes
 research visits/internships at the Palo Alto Research Center (PARC),
 MIT Media Lab, Sunlabs Europe and the German Stock Exchange.
