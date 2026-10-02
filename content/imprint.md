@@ -20,7 +20,7 @@ Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 |           |_|                                          |
 |                                                        |
 | Kai Kunze                                              |
-| E-Mail: kai.kunze (at) pm.me                           |
+| E-Mail: kai.kunze@pm.me                                |
 |                                                        |
 | Straße / Street:                                       |
 |  __  __          _             _                       |

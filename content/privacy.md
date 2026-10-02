@@ -11,7 +11,12 @@ aliases:
 
 ### 1. Verantwortlicher
 
-Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist Kai Kunze. Die Kontaktdaten stehen im [Impressum](/imprint/).
+Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+
+Kai Kunze\
+E-Mail: kai.kunze@pm.me
+
+Die Postanschrift und Telefonnummer stehen im [Impressum](/imprint/).
 
 ### 2. Hosting (GitHub Pages)
 
@@ -39,7 +44,12 @@ Sie haben das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Lösch
 
 ### 1. Controller
 
-The controller for data processing on this website under the General Data Protection Regulation (GDPR) is Kai Kunze. Contact details are in the [imprint](/imprint/).
+The controller for data processing on this website under the General Data Protection Regulation (GDPR) is:
+
+Kai Kunze\
+E-mail: kai.kunze@pm.me
+
+The postal address and phone number are in the [imprint](/imprint/).
 
 ### 2. Hosting (GitHub Pages)
 
