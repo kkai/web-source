@@ -25,13 +25,13 @@ and a short paper at ISWC.
 
 ### Ubicomp Demos and Posters
 
-* [My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones](/papers/kunze2013my.pdf)
-* [Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices](/papers/kunze2013annotate.pdf)
-* [Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband](/papers/cheng2013activity.pdf)
+* [My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones](/papers/pdf/kunze2013my.pdf)
+* [Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices](/papers/pdf/kunze2013annotate.pdf)
+* [Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband](/papers/pdf/cheng2013activity.pdf)
 
 ### ISWC paper
 
-* [I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking](/papers/kunze2013know.pdf)
+* [I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking](/papers/pdf/kunze2013know.pdf)
 
 
 Drop by at the demo,poster sessions and/or see me my talk on Thursday. 

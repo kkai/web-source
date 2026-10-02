@@ -4,7 +4,7 @@ categories:
 date: 2014-03-05T00:00:00Z
 tagline: Attending a Symposium in Tokyo
 title: Beyond FuturICT
-url: /2014/03/05/Attending-the-symposium-on-service-systems-science/
+url: /2014/03/05/attending-the-symposium-on-service-systems-science/
 ---
 
 <p class="lead">  
@@ -24,7 +24,7 @@ Also the talks from Shunri Oda and Maso Fukuma addressed similar problems and pr
 
 In the afternoon, Cornelius Herstatt gave some interesting observations about the future potential of the Japanese Market. Especially, I liked his conclusions about the use of robots in society: Seeing robots not as replacements to workers but as complementary, allowing more independence and privacy for older adults.
 
-# Take Home Message
+## Take Home Message
 
 Not sure, if I got it right as social and system sciences are quite new to me, but what I took home from the
 symposium:
@@ -37,7 +37,7 @@ With this "Internet of Things" we might have a perfect substrate and basis to ex
 ![FuturICT](/images/Tokyo.jpg)
 
 
-# Discussions and Plenary Summary
+## Discussions and Plenary Summary
 
 The discussions centered around the big
 picture of society and how to induce beneficial change (as well as to prevent negative effects).
@@ -47,7 +47,7 @@ some concrete ideas about change and addressed especially
 
 I ran into this problem, also in the wearable computing field. It is hard for "outsiders" (researchers not in the community) to enter the field. If they just read papers and work on the published research, they can never work on bleeding edge research. You have to meet with people of the different labs and know what they are working on to find interesting topics (and more important they have to trust you ...).
 
-# Concluding
+## Concluding
 
 I'm very happy that the FuturICT lives on. 
 In general, I find the Japanese research community

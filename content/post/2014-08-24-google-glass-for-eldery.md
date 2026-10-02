@@ -73,7 +73,7 @@ These application scenarios are very similar to applications discussed for maint
 
 This is a serious of articles about our UbiComp Submissions
 if you want to read more, check out the Poster paper:
-[_Wearable Computing for Older Adults -Initial Insights into Head-Mounted Display Usage_](/papers/kunze2014wearable.pdf). Kunze, Kai and Henze, Niels and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/kunze2014wearable.bib). 
+[_Wearable Computing for Older Adults -Initial Insights into Head-Mounted Display Usage_](/papers/pdf/kunze2014wearable.pdf). Kunze, Kai and Henze, Niels and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/kunze2014wearable.bib). 
 
 
 

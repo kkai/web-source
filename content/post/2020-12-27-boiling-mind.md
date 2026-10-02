@@ -26,5 +26,5 @@ Here are two summary videos of the perfromances:
 
 (will be replaced with higher quality videos)
 
-Also the [Pre-Print draft of a TEI2021 paper](http://kaikunze.de/papers/pdf/sugawa2021boiling.pdf) (pdf 15Mb)
+Also the [Pre-Print draft of a TEI2021 paper](/papers/pdf/sugawa2021boiling.pdf) (pdf 15Mb)
 

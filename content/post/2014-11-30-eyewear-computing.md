@@ -26,7 +26,7 @@ Publications still pending, so I cannot
 talk about the features, algorithms used etc. 
 In the mean time, here is a demo we gave at UbiComp this year.
 
-<p><a href="/papers/ishimaru2014smarter.pdf"><em>Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition</em></a>. Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. <a href="papers/bib/ishimaru2014smarter.bib">Bibtex</a>. </p>
+<p><a href="/papers/pdf/ishimaru2014smarter.pdf"><em>Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition</em></a>. Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. <a href="/papers/bib/ishimaru2014smarter.bib">Bibtex</a>. </p>
 
 J!NS Academic Video:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W6lWbnoxmqM" frameborder="0" allowfullscreen> 

@@ -29,4 +29,4 @@ Multimodal Literacy: Storytelling Across Senses. Sanchez, Susana and Gu, Heng an
 
 Silhouette Interactions - Using the Hand Shadow As Interaction Modality. Chita, Eria and Kunze, Kai and Sugiura, Yuta and Inami, Masahiko and Hashimoto, Sunao and Ogata, Masa. Proceedings of UbiComp'15 Adjunct. 2015.
 
-Check the [publications page](http://kaikunze.de/publications.html) for the draft versions of the papers.
+Check the [publications page](/publications/) for the draft versions of the papers.

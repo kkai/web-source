@@ -20,7 +20,7 @@ I believe we will see a lot of the work presented at AH2014 at CHI or Ubicomp ne
 
 In the following, I'll show you just a couple of highlights. I'm sorry, I cannot mention all of the cool work (I realized by writing that the blog post got bigger and bigger and decided to stop at some point so I can finally publish it ...). 
 
-# Sports
+## Sports
 
 As already the tag cloud suggested, augmenting sports was a hot topic at the conference.
 
@@ -33,9 +33,9 @@ The best paper award also went to a sports themed paper: "Around Me: A System fo
 <iframe src="//player.vimeo.com/video/88497066" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-# Around the Eye
+## Around the Eye
 
-As you might know, I have a personal interest in [Eyetracking and related research](http://kaikunze.de/posts/30c3-toward-a-cognitive-quantified-self/), as I think it's a very promising direction (especially inferring types of information that you otherwise cannot easily get hold off). So I was very curious about related work presented at AH about the topic and was not disappointed.
+As you might know, I have a personal interest in [Eyetracking and related research](/2013/12/28/30c3-toward-a-cognitive-quantified-self/), as I think it's a very promising direction (especially inferring types of information that you otherwise cannot easily get hold off). So I was very curious about related work presented at AH about the topic and was not disappointed.
 
 
 I'm wondering if I feel comfortable sharing my sad emotions, as suggested by Tearsense (Marina Mitani, Yasuaki Kakehi). Maybe in a dark cinema this is alright. As a part of life logging it might be also interesting. We had a couple of interesting discussions also during the social about the technology.
@@ -46,7 +46,7 @@ Asako Hosobori and Yasuaki Kakehi want to support face to face interaction with 
 Although the setup still seems a bit unnatural, I love the direction of the research using technology to enrich our social life and make us focus more on things that are important (away from looking at smartphone screens). Yet, judge yourself.
 <iframe src="//player.vimeo.com/video/88344477" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# Haptics
+## Haptics
 
 The most far out work regarding output devices was
 definitely "A Haptic Foot Interface for Language Communication" by Erik Hill et. al. They use vibration
@@ -61,24 +61,25 @@ The half implant device on a fingernail by Emi Tamaki and Ken Iwasaki was also n
 As always, I particularly liked Inami-Sensei's work.
 Suzanne Low presented "Pressure Detection on Mobile Phone By Camera and Flash". Very innovative use of the camera and nice demonstrations.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2MQkFmQr_TI" frameborder="0" allowfullscreen></iframe>
+
 Also the multi-touch car steering wheel presented by Shunsuke Koyama (you can do gestures anywhere on the wheel) was really well thought out and cool research.
 
 
-# Our work
+## Our work
 
 We had 3 papers and 1 poster at the conference.
 
 ***
-[_On the Tip of my Tongue - A Non-Invasive Pressure-Based Tongue Interface_](/papers/cheng2014tip.pdf). Cheng, Jingyuan and Okoso, Ayano and Kunze, Kai and Henze, Niels and Schmidt, Albrecht and Lukowicz, Paul and Kise. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](papers/bib/cheng2014tip.bib). 
+[_On the Tip of my Tongue - A Non-Invasive Pressure-Based Tongue Interface_](/papers/pdf/cheng2014tip.pdf). Cheng, Jingyuan and Okoso, Ayano and Kunze, Kai and Henze, Niels and Schmidt, Albrecht and Lukowicz, Paul and Kise. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](/papers/bib/cheng2014tip.bib). 
 
 ***
-[_In the Blink of an Eye - Combining Head Motion and Eye Blink Frequency for Activity Recognition with Google Glass_](/papers/ishimaru2014blink.pdf). Ishimaru, Shoya and Kunze, Kai and Kise, Koichi and Weppner, Jens and Dengel, Andreas and Lukowicz, Paul and Bulling, Andreas. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](papers/bib/ishimaru2014blink.bib). 
+[_In the Blink of an Eye - Combining Head Motion and Eye Blink Frequency for Activity Recognition with Google Glass_](/papers/pdf/ishimaru2014blink.pdf). Ishimaru, Shoya and Kunze, Kai and Kise, Koichi and Weppner, Jens and Dengel, Andreas and Lukowicz, Paul and Bulling, Andreas. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](/papers/bib/ishimaru2014blink.bib). 
 
 ***
-[_What's on your mind? Mental Task Awareness Using Single Electrode Brain Computer Interfaces_](/papers/shirazi2014what.pdf). Shirazi, Alireza Sahami and Hassib, Mariam and Henze, Niels and Schmidt, Albrecht and Kunze, Kai. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](papers/bib/shirazi2014what.bib). 
+[_What's on your mind? Mental Task Awareness Using Single Electrode Brain Computer Interfaces_](/papers/pdf/shirazi2014what.pdf). Shirazi, Alireza Sahami and Hassib, Mariam and Henze, Niels and Schmidt, Albrecht and Kunze, Kai. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](/papers/bib/shirazi2014what.bib). 
 
 ***
-[_Haven't we met before? - A Realistic Memory Assistance System to Remind You of The Person in Front of You_](/papers/iwamura2014havent.pdf). Iwamura, Masakazu and Kunze, Kai and Kato, Yuya and Utsumi, Yuzuko and Kise, Koichi. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](papers/bib/iwamura2014havent.bib). 
+[_Haven't we met before? - A Realistic Memory Assistance System to Remind You of The Person in Front of You_](/papers/pdf/iwamura2014havent.pdf). Iwamura, Masakazu and Kunze, Kai and Kato, Yuya and Utsumi, Yuzuko and Kise, Koichi. Proceedings of the 5th Augmented Human International Conference. 2014. [Bibtex](/papers/bib/iwamura2014havent.bib). 
 
 
 I'm particularly proud of Okoso's and Shoya's work. 
@@ -89,7 +90,7 @@ As Shoya was still visiting DFKI in Germany, he sadly
 could not attend. 
 Okoso gave the Tongue Interface presentation and I was impressed by her. It's her first talk at a conference and she's a 3rd year bachelor. The English was perfect, the talk easy to understand and entertaining. Well done!
 
-# Concluding
+## Concluding
 
 The full program can be found at the [AH website](http://cse.eedept.kobe-u.ac.jp/ah2014/program/) in
 case you're looking for the references.

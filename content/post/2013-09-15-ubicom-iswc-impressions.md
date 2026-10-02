@@ -27,8 +27,8 @@ completely unfounded.
 We got some great feedback for Kazuma's and Shoya's demos.
 They both did a great job introducing their work about:
 
-* [My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones](/papers/kunze2013my.pdf)
-* [Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices](/papers/kunze2013annotate.pdf)
+* [My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones](/papers/pdf/kunze2013my.pdf)
+* [Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices](/papers/pdf/kunze2013annotate.pdf)
 
 
 We got also a lof of interest and feedback
@@ -46,7 +46,7 @@ the paper.
 Reading is a ubiquitous activity that many people even per- form in transit, such as while on the bus or while walking. Tracking reading enables us to gain more insights about ex- pertise level and potential knowledge of users – towards a reading log tracking and improve knowledge acquisition. As a first step towards this vision, in this work we investigate whether different document types can be automatically de- tected from visual behaviour recorded using a mobile eye tracker. We present an initial recognition approach that com- bines special purpose eye movement features as well as ma- chine learning for document type detection. We evaluate our approach in a user study with eight participants and five Japanese document types and achieve a recognition perfor- mance of 74% using user-independent training.
 
 Full paper link:
-[I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking](/papers/2013Kunze-5.pdf)
+[I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking](/papers/pdf/kunze2013know.pdf)
 
 
 

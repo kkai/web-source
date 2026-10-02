@@ -23,17 +23,17 @@ weeks.
 Oh and if you attend please think about stopping
 by our [Workshop on Ubiquitous Technologies for Augmenting the Human Mind](http://recall-fet.eu/wahm2014/).
 
-[_Implicit Gaze based Annotations to Support Second Language Learning_](/papers/okoso2014implicit.pdf). Okoso, Ayano and Kunze, Kai and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](papers/bib/okoso2014implicit.bib). 
+[_Implicit Gaze based Annotations to Support Second Language Learning_](/papers/pdf/okoso2014implicit.pdf). Okoso, Ayano and Kunze, Kai and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/okoso2014implicit.bib). 
 
 
-[_Wearable Computing for Older Adults -Initial Insights into Head-Mounted Display Usage_](/papers/kunze2014wearable.pdf). Kunze, Kai and Henze, Niels and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](papers/bib/kunze2014wearable.bib). 
+[_Wearable Computing for Older Adults -Initial Insights into Head-Mounted Display Usage_](/papers/pdf/kunze2014wearable.pdf). Kunze, Kai and Henze, Niels and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/kunze2014wearable.bib). 
 
 
-[_Memory Specs-An Annotation System on Google Glass using Document Image Retrieval_](/papers/tanaka2014memory.pdf). Tanaka, Katsuma and Kunze, Kai and Iwata, Motoi and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](papers/bib/tanaka2014memory.bib). 
+[_Memory Specs-An Annotation System on Google Glass using Document Image Retrieval_](/papers/pdf/tanaka2014memory.pdf). Tanaka, Katsuma and Kunze, Kai and Iwata, Motoi and Kise, Koichi. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/tanaka2014memory.bib). 
 
 
-[_Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition_](/papers/ishimaru2014smarter.pdf). Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](papers/bib/ishimaru2014smarter.bib). 
+[_Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition_](/papers/pdf/ishimaru2014smarter.pdf). Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/ishimaru2014smarter.bib). 
 
 ***
-[_Position Paper: Brain Teasers - Toward Wearable Computing that Engages Our Mind_](/papers/ishimaru2014brain.pdf). Ishimaru, Shoya and Kunze, Kai and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](papers/bib/ishimaru2014brain.bib). 
+[_Position Paper: Brain Teasers - Toward Wearable Computing that Engages Our Mind_](/papers/pdf/ishimaru2014brain.pdf). Ishimaru, Shoya and Kunze, Kai and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. [Bibtex](/papers/bib/ishimaru2014brain.bib). 
 
