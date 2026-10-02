@@ -13,7 +13,7 @@ as it was the first ever held in English ;)
 
 {{< figure src="/images/miraikan1.jpg" title="The Miraikan Science Quest about The Eye as a Window to the Mind." >}}
 
-### [Scientist Quest "The eye as window to the mind －What Smart Eyewear can tell us about our behavior"](http://www.miraikan.jst.go.jp/en/event/1707121121662.html)
+### [Scientist Quest "The eye as window to the mind －What Smart Eyewear can tell us about our behavior"](https://web.archive.org/web/20170801231738/http://www.miraikan.jst.go.jp:80/en/event/1707121121662.html)
 
 The talk gives an overview about the emerging field of smart glasses and how they can be used to detect cognitive states (what is going on in your mind). I present first application scenarios about tracking reading activities towards attention management. In an increasingly interconnected world, and with a greater flow of information, more people are having problems with keeping attention and focus. We discuss also how smart glasses can help with attention and stress management.
 

@@ -12,7 +12,7 @@ I'm excited and happy to be one of few non-Japanese researchers to receive a [JS
 
 <!--more-->
 Information in Japanese:
-[JST Annoucement](https://www.jst.go.jp/kisoken/presto/news/2016/161118/161118presto.pdf)
+[JST Annoucement](https://web.archive.org/web/20170321090357/http://www.jst.go.jp:80/kisoken/presto/news/2016/161118/161118presto.pdf)
 
 Here's a short summary about the project direction and goals.
 

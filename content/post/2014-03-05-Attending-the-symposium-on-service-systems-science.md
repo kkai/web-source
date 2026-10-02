@@ -11,7 +11,7 @@ url: /2014/03/05/attending-the-symposium-on-service-systems-science/
 Attending the International Symposium on Service Systems Science on the 26.02.2014 in Tokyo, I got a glimpse on how the next steps of FuturICT and how similar projects and efforts are on their way in Japan.
 </p>
 
-Although the [FuturICT](http://www.futurict.eu) project did not get funding from 
+Although the [FuturICT](https://web.archive.org/web/20140306120704/http://www.futurict.eu/) project did not get funding from 
 the EU so far (I still believe this was a grave mistake),
 I can see that the spirit and our ideas live on. The Japanese COI-T Program focuses on the same issues and problems as FuturICT.
 

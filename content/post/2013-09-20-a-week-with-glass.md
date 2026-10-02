@@ -109,7 +109,7 @@ with him. I attempted to use the [MicroOptical](https://en.wikipedia.org/wiki/Op
 ![Me](/images/me.jpg)
 
 Around 2004 - 2010, I played with various wearable setups to use during everyday life during my phD. each only for a week or couple of days. If you work on wearable computing you have to try at least. As seen in the picture above, the only setup working for me was a Prototype HMD from Zeiss with the
-[Qbic](http://www.qbic.ethz.ch), an awesome belt-integrated linux pc by ETH (black belt buckle in the picture), and [Twiddler 2](http://www.handykey.com). Yet, I stopped using it as the glasses were quite heavy, maintaining/adjusting the software was a hassle (compared to the advantages) and -I have to admit- due to social pressure, imagine living as a cyborg in a small Bavarian town, mostly occupied by law and business students ... I found my small, black, analog notebook more handy and less intimidating to other people. Today, I'm an avid iPhone user (Things, Clear, Habit List, Textastic, Prompt and Lendromat  ...).
+[Qbic](https://web.archive.org/web/20160307052022/http://www.qbic.ethz.ch:80/), an awesome belt-integrated linux pc by ETH (black belt buckle in the picture), and [Twiddler 2](http://www.handykey.com). Yet, I stopped using it as the glasses were quite heavy, maintaining/adjusting the software was a hassle (compared to the advantages) and -I have to admit- due to social pressure, imagine living as a cyborg in a small Bavarian town, mostly occupied by law and business students ... I found my small, black, analog notebook more handy and less intimidating to other people. Today, I'm an avid iPhone user (Things, Clear, Habit List, Textastic, Prompt and Lendromat  ...).
 
 
 ## To sum up

@@ -9,7 +9,7 @@ url: /2013/11/05/amazing-okinawa-attending-the-asvai-workshop/
 <p class="lead">Cool research discussions at a nice location. The workshop was perfect fit to my research interests.</p>
 
 The [ASVAI workshop](http://www.am.sanken.osaka-u.ac.jp/ASVAI2013/) gave a good overview about several research 
-efforts part of and related to the [JST CREST](http://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/areah21-1.html) and the JSPS Core-to-Core Sanken Program. 
+efforts part of and related to the [JST CREST](https://web.archive.org/web/20130511050746/http://www.jst.go.jp:80/kisoken/crest/en/research_area/ongoing/areah21-1.html) and the JSPS Core-to-Core Sanken Program. 
 
 [Prof. Yasushi Yagi](http://www.am.sanken.osaka-u.ac.jp/~yagi/)
 showed how to infer intention from gait analysis.

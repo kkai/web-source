@@ -17,7 +17,7 @@ The implementation relies purely on HTML and JavaScript, making it both lightwei
 The complete source code is available on my GitHub repository: [devicemotion-demo](https://github.com/kkai/devicemotion-demo)
 This project builds upon several excellent resources:
 
-- A Node.js WebSocket tutorial demonstrating chat server implementation by Martin Sikora: [a simple chat server node.js tutorial](http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial)
+- A Node.js WebSocket tutorial demonstrating chat server implementation by Martin Sikora: [a simple chat server node.js tutorial](https://web.archive.org/web/20120625020052/http://martinsikora.com:80/nodejs-and-websocket-simple-chat-tutorial?)
 - Paul Hayes' guide on creating animated 3D cubes using CSS3 transforms: [3d css cube](http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/)
 - The "3D Cube World" Processing sketch that inspired the visualization: [3d cube world](http://openprocessing.org/sketch/19216)
 

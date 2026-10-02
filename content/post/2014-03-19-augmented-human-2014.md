@@ -92,9 +92,9 @@ Okoso gave the Tongue Interface presentation and I was impressed by her. It's he
 
 ## Concluding
 
-The full program can be found at the [AH website](http://cse.eedept.kobe-u.ac.jp/ah2014/program/) in
+The full program can be found at the [AH website](https://web.archive.org/web/20140325145157/http://cse.eedept.kobe-u.ac.jp:80/ah2014/program/) in
 case you're looking for the references.
-See you next year at [AH in Singapore](http://www.augmented-human.com/augmented-human-international-conference-2015).
+See you next year at [AH in Singapore](https://web.archive.org/web/20140730070431/http://www.augmented-human.com:80/augmented-human-international-conference-2015).
 
 
 

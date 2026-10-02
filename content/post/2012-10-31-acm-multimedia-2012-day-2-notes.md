@@ -55,7 +55,7 @@ In case any if the organisers is reading this. Thanks again. Nara is a perfect p
 (deer, world heritage sites, good food ...).
 
 More curiously, although there was a lot of talk about social media and some lively discussions
-on twitter, I seemed to be the only participant on [ADN](https://alpha.app.net/) at least posting with hashtag.
+on twitter, I seemed to be the only participant on [ADN](https://web.archive.org/web/20140404012751/https://alpha.app.net/) at least posting with hashtag.
 
 
 

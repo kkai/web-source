@@ -9,7 +9,7 @@ url: /2012/08/30/laughing-faces-app-in-the-appstore/
 ---
 
 Over the last couple of weeks, I was getting settled in my new job.
-As I'm working with [computer vision researchers](http://imlab.jp) now,
+As I'm working with [computer vision researchers](https://web.archive.org/web/20120829051346/http://imlab.jp:80/) now,
 I started playing with the camera api for the iPhone.
 
 Again, I'm very surprised by the accessibility and quality of Apples
@@ -25,7 +25,7 @@ do so (had to exchange the laughing face due to copyright constraints).
 Grab it while it's hot ... it's quite popular in Japan (understandable 
 given the background, see below), China and Saudi Arabia (of all places, ... if
 somebody can tell me why, please send me a mail):
-[Laughing Faces AppStore Link](http://itunes.apple.com/us/app/laughing-faces/id551656355?mt=8)
+[Laughing Faces AppStore Link](https://web.archive.org/web/20140403073301/https://itunes.apple.com/us/app/laughing-faces/id551656355?mt=8)
 
 By the way, I had over 250 downloads the first day :)
 Oh if you wonder, the inspiration came from 

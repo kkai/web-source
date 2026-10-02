@@ -8,7 +8,7 @@ url: /2014/11/30/eyewear-computing/
 
 <p class="lead"> Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That's why I'm very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.</p>
 
-You might have seen the <a href="http://academic.jins.com/en/"> J!NS academic videos </a> by now,
+You might have seen the <a href="https://web.archive.org/web/20141203063617/http://academic.jins.com:80/en/"> J!NS academic videos </a> by now,
 I added embedded versions to the end of the post.
 
 Bellow is the full video of the sneak peek of our work in the J!NS promotion. Special thanks to <a href="http://shoya.io/aboutme/"> Shoya Ishimaru </a> and <a href="http://questbe.at">Katsuma Tanaka </a>, two talented students

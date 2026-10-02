@@ -11,7 +11,7 @@ url: /2012/07/26/aaai-activity-context-workshop-notes/
 I enjoyed the AAAI context activity workshop a lot.
 
 The keynote [How to make Face 
-Recognition work (pdf)](http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556) 
+Recognition work (pdf)](https://web.archive.org/web/20220705182419/https://aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556) 
 by [Ashis Kapoor](http://research.microsoft.com/en-us/um/people/akapoor/)
 showed how to increase face recognition introducing very simple "context" constrains
 (two people in the same image cannot be the same person etc.).
@@ -27,7 +27,7 @@ clients, sensors etc.).
 A lot of people were aware of our efforts during the
 [Opportunity Project](http://www.opportunity-project.eu/) and the standard datasets we want to put out.
 
-Rim Helaoui presented work about using [Probabilistic Description Logics (pdf)](http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5269/5552)
+Rim Helaoui presented work about using [Probabilistic Description Logics (pdf)](https://web.archive.org/web/20130308041907/http://www.aaai.org:80/ocs/index.php/WS/AAAIW12/paper/view/5269/5552)
 for activity recognition, an interesting approach trying to combine
   data driven and rule-based activity inference. They used 
   the opportunity dataset ;)

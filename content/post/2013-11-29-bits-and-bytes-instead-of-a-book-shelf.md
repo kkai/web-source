@@ -48,7 +48,7 @@ Interesting further reading:
 
 [Shilit et. al. Beyond Paper: Supporting Active Reading with Free Form Digital Ink Annotations](http://www.fxpal.com/publications/FXPAL-PR-98-053.pdf)
 
-[Hartson. Cognitive, physical, sensory, and functional affordances in interaction design](http://courses.cs.vt.edu/~cs5714/fall2003/Affordances,%20as%20appeared.pdf)
+[Hartson. Cognitive, physical, sensory, and functional affordances in interaction design](https://web.archive.org/web/20170829121111/http://courses.cs.vt.edu/~cs5714/fall2003/Affordances,%20as%20appeared.pdf)
 
 [Piper et. al. Tabletop Displays for Small Group Study: Affordances of Paper and Digital Materials](http://hci.ucsd.edu/hollan/Pubs/piperCHI2009.pdf)
 

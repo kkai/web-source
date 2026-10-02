@@ -53,14 +53,14 @@ Also, depending on personal experience and cultural background, the emotional re
 
 #### interesting links
 
-[Semaine Corpus](http://semaine-db.eu)
+[Semaine Corpus](https://web.archive.org/web/20120831163016/http://semaine-db.eu:80/)
 
 [Media Eval](http://www.multimediaeval.org/)
 
-[EmoVoice Audio Emotion classifier](http://www.informatik.uni-augsburg.de/de/lehrstuehle/hcm/projects/tools/emovoice/)
+[EmoVoice Audio Emotion classifier](https://web.archive.org/web/20121020042924/http://www.informatik.uni-augsburg.de:80/de/lehrstuehle/hcm/projects/tools/emovoice/)
 
-[qsensor](http://www.affectiva.com/q-sensor/)
+[qsensor](https://web.archive.org/web/20121103073312/http://www.affectiva.com:80/q-sensor/)
 
-[London eye mood](http://cinimodstudio.com/project/london-eye-mood-conductor/)
+[London eye mood](https://web.archive.org/web/20121210160105/http://cinimodstudio.com:80/project/london-eye-mood-conductor/)
 
 
