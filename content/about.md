@@ -10,6 +10,8 @@ Kai Kunze\
 email (business): kai.kunze (at) pm.me \
 email (personal): kai.kunze (at) gmail.com
 
+[Imprint / Impressum](/imprint/) · [Privacy / Datenschutz](/privacy/)
+
 # About
 
 With over fifteen years of experience in the Wearable Computing research field, Kai works as
