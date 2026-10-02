@@ -2,7 +2,6 @@
 categories:
 - posts
 date: 2016-11-06T00:00:00Z
-summary: It's a strange feeling to have UbiComp and ISWC so close to my home.
 title: ISWC and UbiComp in Heidelberg
 url: /2016/11/06/iswc-and-ubicomp-in-heidelberg/
 ---

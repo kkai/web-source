@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2014-03-19T00:00:00Z
-summary: Innovative research, that makes you first laugh and then think. The conference
-  develops into one of my favorite venues.
 title: Augmented Human 2014
 url: /2014/03/19/augmented-human-2014/
 ---
@@ -13,7 +11,7 @@ url: /2014/03/19/augmented-human-2014/
 Ok, I'm "a bit" biased as I'm one of the conference co-chairs. Still I enjoyed this years Augmented Human.
 Below is the tag cloud from all abstracts, to give you a brief overview about the topics.
 
-![Tag Cloud](/imgs/ah-cloud.png)
+![Tag Cloud](/images/ah-cloud.jpg)
 
 Considering the small size of the conference, the quality of the work is exceptional. It's not one of the conferences that gets the rejected papers from CHI, Ubicomp, PerComp etc. The steering committee really set up a venue for far-out, novel ideas. Also it's a good opportunity to meet great researchers up close; last year for example Thad Starner, Albrecht Schmidt etc. this year, Jun Rekimoto, Masahiko Inami, Paul Lukowicz and especially [Yoshiyuki Sankai](http://www.cyberdyne.jp/english/) ... 
 pretty impressive if you ask me. They might be around at other bigger events, yet try to catch them and talk to them, impossible. At AH, it's very easy. I recommend any young researcher interested in the research topics to attend next year's AH. Surely, I will try to get some papers accepted ;)
@@ -22,7 +20,8 @@ I believe we will see a lot of the work presented at AH2014 at CHI or Ubicomp ne
 
 In the following, I'll show you just a couple of highlights. I'm sorry, I cannot mention all of the cool work (I realized by writing that the blog post got bigger and bigger and decided to stop at some point so I can finally publish it ...). 
 
-#Sports#
+# Sports
+
 As already the tag cloud suggested, augmenting sports was a hot topic at the conference.
 
 So just in case you want to play a round of Quidditch or Shaolin Soccer in the real world, we might have the tech for it. Rekimoto research about "Hover Ball". 
@@ -34,7 +33,8 @@ The best paper award also went to a sports themed paper: "Around Me: A System fo
 <iframe src="//player.vimeo.com/video/88497066" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-#Around the Eye#
+# Around the Eye
+
 As you might know, I have a personal interest in [Eyetracking and related research](http://kaikunze.de/posts/30c3-toward-a-cognitive-quantified-self/), as I think it's a very promising direction (especially inferring types of information that you otherwise cannot easily get hold off). So I was very curious about related work presented at AH about the topic and was not disappointed.
 
 
@@ -46,25 +46,26 @@ Asako Hosobori and Yasuaki Kakehi want to support face to face interaction with 
 Although the setup still seems a bit unnatural, I love the direction of the research using technology to enrich our social life and make us focus more on things that are important (away from looking at smartphone screens). Yet, judge yourself.
 <iframe src="//player.vimeo.com/video/88344477" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-#Haptics#
+# Haptics
 
 The most far out work regarding output devices was
 definitely "A Haptic Foot Interface for Language Communication" by Erik Hill et. al. They use vibration
 motors to convey text messages on your foot. Made me wonder why we don't use our feet more for HCI, regarding how sensitive our feet are and that a large part of our brain is also dedicated to sensing on the foot.
 
 Max Peiffer et. al. showed how to make free-hand interactions (e.g. with a kinect or similar body tracking system) more realistic using haptic feedback. Nice work!
-<iframe width="420" height="315" src="//www.youtube.com/embed/MMe6-ZG4-ww" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/MMe6-ZG4-ww" frameborder="0" allowfullscreen></iframe>
 
 The half implant device on a fingernail by Emi Tamaki and Ken Iwasaki was also nice; especially considering that it's already (or soon) a commercial product. 
-<iframe width="560" height="315" src="//www.youtube.com/embed/M2IwAeVe1lg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M2IwAeVe1lg" frameborder="0" allowfullscreen></iframe>
 
 As always, I particularly liked Inami-Sensei's work.
 Suzanne Low presented "Pressure Detection on Mobile Phone By Camera and Flash". Very innovative use of the camera and nice demonstrations.
-<iframe width="560" height="315" src="//www.youtube.com/embed/2MQkFmQr_TI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2MQkFmQr_TI" frameborder="0" allowfullscreen></iframe>
 Also the multi-touch car steering wheel presented by Shunsuke Koyama (you can do gestures anywhere on the wheel) was really well thought out and cool research.
 
 
-#Our work#
+# Our work
+
 We had 3 papers and 1 poster at the conference.
 
 ***
@@ -88,7 +89,7 @@ As Shoya was still visiting DFKI in Germany, he sadly
 could not attend. 
 Okoso gave the Tongue Interface presentation and I was impressed by her. It's her first talk at a conference and she's a 3rd year bachelor. The English was perfect, the talk easy to understand and entertaining. Well done!
 
-#Concluding#
+# Concluding
 
 The full program can be found at the [AH website](http://cse.eedept.kobe-u.ac.jp/ah2014/program/) in
 case you're looking for the references.

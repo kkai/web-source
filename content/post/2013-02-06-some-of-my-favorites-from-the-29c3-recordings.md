@@ -1,7 +1,6 @@
 ---
 date: 2013-02-06T00:00:00Z
 description: ""
-summary: Over the last weeks, I finally got around to watch some of the ...
 tags:
 - hacking
 - conference

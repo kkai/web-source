@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2014-01-28T00:00:00Z
-summary: Impressions and Talk Recommendations. Finally, a couple of days with normal
-  people ...
 tagline: Impressions and Talk Recommendations
 tags:
 - 30c3
@@ -15,7 +13,7 @@ url: /2014/01/28/looking-back-at-30c3/
 
 Honestly I was impressed by the professionalism of the 30th Chaos Communication Congress. It changed a lot from the last time I visited ( 25c3), grew bigger without loosing its atmosphere. With the assemblies and workshops the event starts to get more and more interactive.
 
-##Talk Recommendations##
+## Talk Recommendations
 
 I link to the youtube streams of the recordings
 yet you can get them also over at [media.ccc.de](http://media.ccc.de/browse/congress/2013/)
@@ -43,7 +41,8 @@ not too much to lose the audience.
 So SD-cards have micro processors and guess what you can program them yourself. Quite scary :)
 
 
-##My Talk Feedback##
+## My Talk Feedback
+
 I was a bit surprised how positive it was.
 As the talk is kind of scary. If you imagine
 we are really able to infer how much somebody

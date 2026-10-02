@@ -3,7 +3,6 @@ categories:
 - conferences
 date: 2012-10-31T00:00:00Z
 description: Best Paper Sessions etc.
-summary: Here are some notes about ACM Multimedia, in random order.
 tags:
 - conferences
 - acmmm2012

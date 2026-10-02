@@ -1,8 +1,6 @@
 ---
 date: 2012-07-08
 description: ""
-summary: I'm slowly uploading a couple of references and the pdf draft versions of
-  them.
 tags: []
 title: Some of my publications are online
 url: /2012/07/08/some-of-my-publications-are-online/

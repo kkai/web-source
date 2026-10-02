@@ -3,7 +3,6 @@ categories:
 - conferences
 date: 2012-10-29T00:00:00Z
 description: I attended the Tutorials ...
-summary: I attended the following Tutorials ...
 tagline: null
 tags:
 - scratchpad

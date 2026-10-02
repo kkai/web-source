@@ -3,7 +3,6 @@ categories:
 - hacking
 date: 2012-08-30T00:00:00Z
 description: ""
-summary: Over the last couple of weeks, I was getting settled in my new job.
 tags: []
 title: Laughing Faces App in the AppStore
 url: /2012/08/30/laughing-faces-app-in-the-appstore/
@@ -15,8 +14,6 @@ I started playing with the camera api for the iPhone.
 
 Again, I'm very surprised by the accessibility and quality of Apples
 apis and their sample code.
-
-![Laughing Face](/images/laughing.png)
 
 As a start, this little app is a "privacy enhanced" camera 
 app for entertainment purposes. 

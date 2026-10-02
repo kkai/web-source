@@ -3,7 +3,6 @@ categories:
 - conference
 date: 2013-09-15T00:00:00Z
 description: ""
-summary: Usually, I'm not such a big fan of conference openings, ...
 tagline: great time in Zurich
 tags:
 - conference
@@ -37,11 +36,13 @@ to Andreas Bulling's and my work about recognizing
 document types using only eye gaze.
 By the way, below are the talk slides and the abstract of 
 the paper.
-##ISWC Talk Slides##
+
+## ISWC Talk Slides
 
 <script class="speakerdeck-embed" data-id="a0f70c60fdc20130468e062acf92b5fe" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js">  </script>
 
-##Abstract##
+## Abstract
+
 Reading is a ubiquitous activity that many people even per- form in transit, such as while on the bus or while walking. Tracking reading enables us to gain more insights about ex- pertise level and potential knowledge of users – towards a reading log tracking and improve knowledge acquisition. As a first step towards this vision, in this work we investigate whether different document types can be automatically de- tected from visual behaviour recorded using a mobile eye tracker. We present an initial recognition approach that com- bines special purpose eye movement features as well as ma- chine learning for document type detection. We evaluate our approach in a user study with eight participants and five Japanese document types and achieve a recognition perfor- mance of 74% using user-independent training.
 
 Full paper link:

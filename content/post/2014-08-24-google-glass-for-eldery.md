@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2014-08-24T00:00:00Z
-summary: As the first article about my grandparents using Google Glass received a
-  lot of interest, I decided to delve a little bit more into the topic.
 title: Google Glass for Older Adults
 url: /2014/08/24/google-glass-for-eldery/
 ---

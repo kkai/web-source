@@ -3,7 +3,6 @@ categories:
 - publication
 date: 2012-07-09T00:00:00Z
 description: ""
-summary: Here's a draft version of my publication for the AAI workshop ...
 tagline: Draft version of AAAI workshop paper online
 title: Towards Dynamically Configurable Context Recognition Systems
 url: /2012/07/09/draft-version-of-aaai-workshop-paper-online/

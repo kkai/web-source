@@ -3,8 +3,6 @@ categories:
 - conference
 date: 2013-09-06T00:00:00Z
 description: ""
-summary: This year I'm really looking forward to Ubicomp and ISWC, it's the first
-  time that ...
 tagline: Our Research Contributions
 tags:
 - conference
@@ -25,13 +23,14 @@ The field slowly matures. Especially, the wearable research is really pushing to
 By the way, we have 3 poster papers and 2 demos at Ubicomp
 and a short paper at ISWC.
 
-###Ubicomp Demos and Posters###
+### Ubicomp Demos and Posters
 
 * [My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones](/papers/kunze2013my.pdf)
 * [Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices](/papers/kunze2013annotate.pdf)
 * [Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband](/papers/cheng2013activity.pdf)
 
-###ISWC paper###
+### ISWC paper
+
 * [I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking](/papers/kunze2013know.pdf)
 
 

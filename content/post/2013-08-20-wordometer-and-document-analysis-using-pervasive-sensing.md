@@ -2,8 +2,6 @@
 categories:
 - research
 date: 2013-08-20T00:00:00Z
-summary: 'In the last couple of months, I got more and more interested in learning,
-  especially reading. '
 title: Wordometer and Document Analysis using Pervasive Sensing
 url: /2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/
 ---

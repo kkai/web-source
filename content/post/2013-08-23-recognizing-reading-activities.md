@@ -3,7 +3,6 @@ categories:
 - research
 date: 2013-08-23T00:00:00Z
 description: CBDAR Keynote 2013
-summary: Just finished my keynote talk at CBDAR, a Workshop at ICDAR
 tagline: CBDAR Keynote 2013
 tags:
 - research
@@ -24,7 +23,7 @@ and as such interesting to combine.
 
 Here are my talk slides, followed by the talk abstract.
 
-##Real-life Activity Recognition - Talk Abstract##
+## Real-life Activity Recognition - Talk Abstract
 
 Most applications in intelligent environments so far strongly rely on specific sensor combinations at predefined positions, orientations etc. While this might be acceptable for some application domains (e.g. industry), it hinders the wide adoption of pervasive computing. How can we extract high level information about human actions and complex real world situations from heterogeneous ensembles of simple, often unreliable sensors embedded in commodity devices?
 

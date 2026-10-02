@@ -2,13 +2,12 @@
 categories:
 - posts
 date: 2016-05-07T00:00:00Z
-summary: We took a risk in organizing the Eyewear Computing Seminar as we deviated
-  largely from the standard model, yet I believe it payed off.
 title: Lessons from the Dagstuhl Seminar on Eyewear Computing
 url: /2016/05/07/dagstuhl-seminar-on-eyewear-computing/
 ---
 
 <p class="lead"> We took a risk in organizing the Eyewear Computing Seminar as we deviated largely from the standard model, yet I believe it payed off.</p>
+
 <!--more-->
 
 ![pupil](/images/pupil.jpg)

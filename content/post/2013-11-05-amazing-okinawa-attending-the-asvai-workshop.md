@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2013-11-05T00:00:00Z
-summary: Cool research discussions at a nice location. The workshop was perfect fit
-  to my research interests.
 title: Amazing Okinawa - Attending the ASVAI Workshop
 url: /2013/11/05/amazing-okinawa-attending-the-asvai-workshop/
 ---
@@ -47,7 +45,7 @@ If you want to read more, checkout the [IEEE Computer article](/papers/pdf/kunze
 I'm looking forward to the main conference.
 Here's a tag cloud using the abstracts of ACPR and ASVAI papers:
 
-![Tag cloud](/imgs/acpr_wordcloud.png)
+![Tag cloud](/images/acpr-cloud.png)
 
 We present demonstrations and new results 
 of the eye tracking on commodity

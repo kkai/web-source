@@ -3,7 +3,6 @@ categories:
 - research
 date: 2013-04-24T00:00:00Z
 description: If you wonder, how we spent German tax money
-summary: If you wonder, ...
 tags:
 - dagstuhl
 - research

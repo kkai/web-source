@@ -3,7 +3,6 @@ categories:
 - scratchpad
 date: 2012-07-26T00:00:00Z
 description: ""
-summary: The keynote How to make Face Recognition work (pdf) by Ashis Kapoor ...
 tags: []
 title: AAAI activity context workshop notes
 url: /2012/07/26/aaai-activity-context-workshop-notes/

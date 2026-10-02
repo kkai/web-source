@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2013-11-29T00:00:00Z
-summary: An interview made me wonder about how reading habits are changing and how
-  we will narrate stories in the future.
 tagline: Reading on digital devices
 title: Bits and Bytes instead of a Bookshelf
 url: /2013/11/29/bits-and-bytes-instead-of-a-book-shelf/

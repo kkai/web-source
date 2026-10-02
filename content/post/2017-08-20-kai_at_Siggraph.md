@@ -10,7 +10,7 @@ emerging technology exhibit, so my time joining the main conference was limited.
 
 We presented atmoSphere and had great feedback.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MkhkAKMhq2U" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MkhkAKMhq2U" frameborder="0" allowfullscreen></iframe>
 
 
 A short description from the abstract:
@@ -21,7 +21,7 @@ We use cross-modal correspondence -the interaction between two or more sensory m
 From KMD, there were an additional 3 Emerging Technologies exhibits.
 Metalimbs won well-earned the best demonstration award.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NIuIiI5mVhI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NIuIiI5mVhI" frameborder="0" allowfullscreen></iframe>
 
 
   Well earned!

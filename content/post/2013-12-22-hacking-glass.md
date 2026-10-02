@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2013-12-22T00:00:00Z
-summary: So I got my hands on another Glass device and can now play with it a bit
-  longer.
 tagline: how to root, update the firmware and enhance privacy
 tags:
 - glass
@@ -22,7 +20,8 @@ a scratch pad to give a record what I did and
 what worked for me. The commands below will erase all data on your device. Proceed at your own risk.
 
 
-##Rooting and Flashing Images##
+## Rooting and Flashing Images
+
 To get root follow the instructions from Google.
 Unfortunately, the fastboot under Mac OS does not work.
 I could use a virtual machine on my Mac with ubuntu
@@ -38,7 +37,7 @@ I needed to execute the last command twice. The first time
 it just asked me if I was sure if I want to void my 
 warranty etc.
 
-Next I flashed the boot image from the [Glass developer page]().
+Next I flashed the boot image from the Glass developer page.
 
     fastboot flash boot boot.img
     fastboot reboot
@@ -58,7 +57,8 @@ flashing (even if it voids your warranty).
     fastboot flash userdata userdata.img
     fastboot erase cache
 
-##Reading out the Proximity Sensor##
+## Reading out the Proximity Sensor
+
 I'm most interested in accessing the proximity
 sensor facing the eye. So thanks to Philip Scholl's and
 Shoya's help, I was able to do it.
@@ -77,29 +77,29 @@ the access rights.
     >chmod 664 /sys/bus/i2c/devices/4-0035/proxraw
 
 
-##Privacy Enhancement##
+## Privacy Enhancement
 
-As I will be visiting the [Chaos Communication Congress]()
+As I will be visiting the Chaos Communication Congress
 next weekend, I wanted to "privacy enhance" GLASS
 for the event. I want to wear Glass but don't
 really need the camera functionality.
 
 So I used my [3Doodler](http://www.the3doodler.com) to make a simple attachment to block the camera of.
 
-![Doodler](/imgs/doodler.jpg)
+![Doodler](/images/doodler.jpg)
 
 The tricky part is that the light sensor for adjusting
 screen brightness is directly under the camera.
 If it's blocked the screen will be very dark.
 Here's the "privacy enhanced" Google Glass version.
 
-![Glass Enhanced](/imgs/glass_p.jpg)
+![Glass Enhanced](/images/glass_p.jpg)
 
 and a picture taken by it. It's not completely black
 due to the issue with the light sensor, yet I 
 think it's a start ;)
 
-![Glass Enhanced](/imgs/glass_p2.jpg)
+![Glass Enhanced](/images/glass_p2.jpg)
 
 Here is the very [basic stencil](/files/glass.stencil.pdf) I used to build the attachment.
 

@@ -2,10 +2,6 @@
 categories:
 - posts
 date: 2014-11-30T00:00:00Z
-summary: Smart glasses and, in general, eyewear are a fairly novel device class with
-  a lot of possibilities for unobtrusive activity tracking. That's why I'm very excited
-  to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research
-  on J!NS MEME.
 title: Eye-Wear Computing
 url: /2014/11/30/eyewear-computing/
 ---
@@ -33,11 +29,11 @@ In the mean time, here is a demo we gave at UbiComp this year.
 <p><a href="/papers/ishimaru2014smarter.pdf"><em>Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition</em></a>. Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp'14 Adjunct. 2014. <a href="papers/bib/ishimaru2014smarter.bib">Bibtex</a>. </p>
 
 J!NS Academic Video:
-<iframe width="560" height="315" src="//www.youtube.com/embed/W6lWbnoxmqM" frameborder="0" allowfullscreen> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W6lWbnoxmqM" frameborder="0" allowfullscreen> 
 </iframe>
 
 Oh and if you haven't had enough:
 Here's an extended Interview with Inami Sensei and me. 
 Me wearing the optical camouflage for the first time at 0:04 :D (very short).
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/9vVtUe6gQ8E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9vVtUe6gQ8E" frameborder="0" allowfullscreen></iframe>

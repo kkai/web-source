@@ -2,7 +2,6 @@
 categories:
 - posts
 date: 2015-09-28T00:00:00Z
-summary: It felt nice to be back in Kansai for the biggest conferences in my field.
 title: Looking back on UbiComp/ISWC in Osaka
 url: /2015/09/28/looking-back-on-ubicompiswc-in-osaka/
 ---

@@ -2,7 +2,7 @@
 title: "Kai @ Miraikan Science Quest"
 subtitle: "The eye as window to the mind"
 date: 2017-08-20T16:20:01+09:00
-image: "images/miraikan2.jpg"
+image: "/images/miraikan2.jpg"
 ---
 
 On the 9th August I had the opportunity to take part in a Miraikan Science Quest.

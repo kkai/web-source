@@ -2,9 +2,6 @@
 categories:
 - posts
 date: 2015-02-18T00:00:00Z
-summary: I'm getting more and more fascinated by augmenting Blind Soccer. After 3
-  blind soccer trainings, we had now a couple of meetings to discuss how to extend
-  and enhance the play experience.
 title: 'Super Human Sports: Augmenting Blind Soccer'
 url: /2015/02/18/my-first-blind-soccer-training/
 ---

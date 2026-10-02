@@ -2,8 +2,6 @@
 categories:
 - posts
 date: 2015-02-09T00:00:00Z
-summary: Here are the video and slides from my talk. Hope you like it. Please if you
-  have some critique write me a mail.
 title: '31C3 Talk Slides: Eye Wear Computing'
 url: /2015/02/09/31c3-talk-slides-eye-wear-computing/
 ---
@@ -18,7 +16,7 @@ Even Heise had a news post about it.
 (Although I cannot and don't want to read your thoughts, as the article implies ;-) ).
 
 Video on Youtube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aWO8aejiRnA" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aWO8aejiRnA" frameborder="0" allowfullscreen> </iframe>
 
 Slides on Speakerdeck:
 <script async class="speakerdeck-embed" data-id="f75c69a07f4c01328d155ab31af9093f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"> </script>

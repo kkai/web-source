@@ -2,7 +2,6 @@
 categories:
 - posts
 date: 2014-08-10T00:00:00Z
-summary: With roughly around 1 month to go, we are busy with demo preparations etc.
 tagline: See you in Seattle
 tags:
 - ubicomp

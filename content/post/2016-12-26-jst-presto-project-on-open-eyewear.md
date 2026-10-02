@@ -2,9 +2,7 @@
 categories:
 - posts
 date: 2016-12-26T00:00:00Z
-summary: I'm excited and happy to be one of few none-Japanese researchers to receive
-  a JST Presto (Sakigake)  project grant, on the Topic Open Collective Eyewear.
-image: images/eyewear-overview.jpg
+image: /images/eyewear-overview.jpg
 title: JST Presto Project on Open Eyewear
 subtitle: Making Regular Glasses Smart
 url: /2016/12/26/jst-presto-project-on-open-eyewear/
@@ -30,7 +28,7 @@ advertisement and marketing companies. This project aims at
 exploring these patterns using an Open Eyewear Platform to
 understand our behavior better.
 
-![overview](/imgs/eyewear-overview.jpg)
+![overview](/images/eyewear-overview.jpg)
 
 This project is interdisciplinary research focusing on
 the use of patterns in physiological signals to quantify

@@ -2,15 +2,13 @@
 categories:
 - posts
 date: 2015-08-18T00:00:00Z
-summary: Katsutoshi Masai, one of my Master students had the idea to track facial
-  expressions using low cost sensors in glasses. Quite nice work!
 title: Affective Wear- Recognizing facial expressions
 url: /2015/08/18/-affective-wear/
 ---
 
 Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)
 <!--more-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9PMzpsDg518" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9PMzpsDg518" frameborder="0" allowfullscreen></iframe>
 
 Facial expressions are a powerful way for us to exchange information nonverbally. They can give us insights into how people feel and think. There are a lot of works related to facial expression detection in computer vision. However, most work focuses on camera-based systems installed in the environment. It is difficult to track for long hours. Moreover, user’s facial expression can be recognized from only a limited angle.
 We present an eyewear type device that can detect facial expression. This eyewear can categorise various facial expression by measuring the distance between eyewear frame and the surface of a person’s face with photo reflective sensors. Recognizable states are as follows: neutral, angry （2 level） smile, laugh, sad,  surprise. With our method, an individual difference can be ignored by user-dependent training. There are several works that show wearable system that can recognize facial expression. Yet, these works focus on detecting only one specific facial expression (smiling). Our contribution is detecting various facial expression states. With our device, computing systems can tap into the rich set of information provided by nonverbal communication...
