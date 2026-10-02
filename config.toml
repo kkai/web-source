@@ -19,7 +19,8 @@ pygmentsCodefencesGuessSyntax = true
   mainSections = ["post","posts"]
   logo = "img/avatar-icon-1.png"# Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "02.01.2020"
+  dateFormat = "02.01.2006"
+  selfHosted = true
   commit = false
   rss = true
   comments = true
@@ -83,3 +84,8 @@ pygmentsCodefencesGuessSyntax = true
 [markup.goldmark.renderer]
      unsafe = true
 
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+  [privacy.vimeo]
+    enableDNT = true

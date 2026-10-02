@@ -1,0 +1,4 @@
+- id: postedOnDate
+  translation: "Posted on {{ . }}"
+- id: lastModified
+  translation: "(Last modified on {{ . }})"
