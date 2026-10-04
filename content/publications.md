@@ -2,6 +2,9 @@
 title: "Publications"
 date: 2020-04-16T12:07:18+09:00
 ---***
+[_Human–Computer Co-Regulation: A Review of Biofeedback for Meditative Practice_](/papers/pdf/liu2026human.pdf). Liu, Mengxi and Peng, Danyang and Bian, Sizhen and Ray, Lala Shakti Swarup and Cheng, Yajun and Zhou, Bo and Yuan, Siyu and Chen, Kanyu and Kunze, Kai and Minamizawa, Kouta and Lukowicz, Paul. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2026. [Bibtex](/papers/bib/liu2026human.bib). 
+
+***
 [_NASA-Task Load Index in CHI: A Comprehensive Review and Subscale Meta-Analysis with Implementation Guidelines_](/papers/pdf/lee2026nasa.pdf). Lee, Juyoung and Starner, Thad and Kunze, Kai and Kosch, Thomas and Pospelova, Maria and Woo, Woontack. ACM Transactions on Computer-Human Interaction. 2026. [Bibtex](/papers/bib/lee2026nasa.bib). 
 
 ***
