@@ -1,0 +1,13 @@
+{{- /* Returns the page's share image: share_img/image front matter, else the first
+       local image in the content, else the site logo. */ -}}
+{{- $img := .Params.share_img | default .Params.image | default "" -}}
+{{- if and (not $img) .IsPage -}}
+  {{- $m := findRESubmatch `(?i)(?:(?:src|link)\s*=\s*"|!\[[^\]]*\]\()([^")\s?]+\.(?:png|jpe?g|gif|webp))` .RawContent 1 -}}
+  {{- with $m -}}
+    {{- $found := index (index . 0) 1 -}}
+    {{- if or (hasPrefix $found "http") (fileExists (printf "static/%s" (strings.TrimPrefix "/" $found))) -}}
+      {{- $img = $found -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($img | default .Site.Params.logo) -}}

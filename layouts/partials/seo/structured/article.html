@@ -1,0 +1,18 @@
+{{- /* Overrides the theme's article.html: author and publisher point at the site's
+       Person, image is the page's share image. */ -}}
+{{- $person := dict "@type" "Person" "@id" ("#person" | absURL) "name" (.Params.author | default .Site.Params.person.name | default .Site.Title) }}
+{{- $article := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "headline" .Title
+  "description" (.Scratch.Get "Description")
+  "inLanguage" .Lang
+  "wordCount" .WordCount
+  "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "image" (partial "seo/share-image.html" . | absURL)
+  "mainEntityOfPage" .Permalink
+  "author" $person
+  "publisher" $person }}
+{{- with .Params.tags }}{{ $article = merge $article (dict "keywords" .) }}{{ end }}
+<script type="application/ld+json">{{ $article | jsonify | safeJS }}</script>

@@ -1,0 +1,15 @@
+{{- $img := partial "seo/share-image.html" . }}
+{{- with .Title | default .Site.Title }}
+  <meta name="twitter:title" content="{{ . | truncate 70 }}" />
+{{- end }}
+{{- with .Scratch.Get "Description" }}
+  <meta name="twitter:description" content="{{ . | truncate 200 }}">
+{{- end }}
+{{- with $img }}
+  <meta name="twitter:image" content="{{ . | absURL }}" />
+{{- end }}
+  <meta name="twitter:card" content="{{ if and $img (ne $img .Site.Params.logo) }}summary_large_image{{ else }}summary{{ end }}" />
+{{- with .Site.Params.Author.twitter }}
+  <meta name="twitter:site" content="@{{ . }}" />
+  <meta name="twitter:creator" content="@{{ . }}" />
+{{- end }}

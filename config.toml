@@ -2,6 +2,7 @@ baseURL = "https://kaikunze.de/"
 languageCode = "en-us"
 title = "Kai Kunze"
 theme = "beautifulhugo"
+enableRobotsTXT = true
 
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
@@ -16,6 +17,8 @@ pygmentsCodefencesGuessSyntax = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "is Augmenting Humans."
   subsub = "Professor at TU Clausthal"
+  homeTitleTag = "Kai Kunze – Professor at TU Clausthal · HCI & Augmented Humans"
+  description = "Kai Kunze is a Professor at TU Clausthal, Germany, working on augmented humans, eyewear computing and wearable sensing. Research blog, papers and projects."
   mainSections = ["post","posts"]
   logo = "img/avatar-icon-1.png"# Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -33,6 +36,22 @@ pygmentsCodefencesGuessSyntax = true
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
+
+# schema.org Person in the page head (layouts/partials/seo/structured/person.html)
+[Params.person]
+  name = "Kai Kunze"
+  jobTitle = "Professor"
+  image = "img/avatar-icon-1.png"
+  affiliation = "TU Clausthal"
+  affiliationURL = "https://www.tu-clausthal.de/"
+  alumniOf = "University of Passau"
+  knowsAbout = ["Human-Computer Interaction", "Augmented Humans", "Eyewear Computing", "Wearable Computing", "Activity Recognition"]
+  sameAs = [
+    "https://scholar.google.com/citations?user=aBBK-psAAAAJ",
+    "https://dl.acm.org/profile/81372592910",
+    "https://www.linkedin.com/in/kaikunze/",
+    "https://github.com/kkai",
+  ]
 
 [Author]
   name = "Kai Kunze"

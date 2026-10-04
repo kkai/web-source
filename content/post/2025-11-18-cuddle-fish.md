@@ -3,6 +3,8 @@ title: "Cuddle Fish"
 subtitle: "A Soft Floating Robot for Safe Physical Interaction"
 date: 2025-11-18T14:08:46+09:00
 draft: false
+aliases:
+- /post/2025-11.18-cuddle-fish/
 ---
 
 {{< figure src="/images/robot_overview.jpg" title="A picture of the robot prototype Cuddle Fish" >}}

@@ -1,0 +1,12 @@
+{{- /* Site owner as a schema.org Person, configured in [Params.person]. */ -}}
+{{- with .Site.Params.person }}
+  {{- $person := dict "@context" "https://schema.org" "@type" "Person" "@id" ("#person" | absURL) "name" .name "url" site.BaseURL }}
+  {{- with .image }}{{ $person = merge $person (dict "image" (. | absURL)) }}{{ end }}
+  {{- with .jobTitle }}{{ $person = merge $person (dict "jobTitle" .) }}{{ end }}
+  {{- with .description }}{{ $person = merge $person (dict "description" .) }}{{ end }}
+  {{- with .affiliation }}{{ $person = merge $person (dict "worksFor" (dict "@type" "CollegeOrUniversity" "name" . "url" $.Site.Params.person.affiliationURL)) }}{{ end }}
+  {{- with .alumniOf }}{{ $person = merge $person (dict "alumniOf" (dict "@type" "CollegeOrUniversity" "name" .)) }}{{ end }}
+  {{- with .knowsAbout }}{{ $person = merge $person (dict "knowsAbout" .) }}{{ end }}
+  {{- with .sameAs }}{{ $person = merge $person (dict "sameAs" .) }}{{ end }}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{- end }}
